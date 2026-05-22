@@ -55,8 +55,8 @@ def main():
 
     # 캡션, 질문, 선택지를 보고 최종 정답을 고르는 reasoning 모델
     # 논문에서는 Flan-T5XXL을 사용했지만,
-    # 맥북/로컬 환경에서 빠른 테스트가 가능하도록 Flan-T5-base를 기본값으로 사용한다.
-    parser.add_argument("--reasoning_model", default="google/flan-t5-base")
+    # InstructBLIP XL caption backbone과 맞춰 Flan-T5-XL을 기본값으로 사용한다.
+    parser.add_argument("--reasoning_model", default="google/flan-t5-xl")
 
     args = parser.parse_args()
 

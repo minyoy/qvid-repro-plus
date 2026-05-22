@@ -1,0 +1,29 @@
+{
+  "summary": {
+    "total": 1,
+    "correct": 0,
+    "accuracy": 0.0,
+    "accuracy_percent": 0.0,
+    "n_frames": 8
+  },
+  "results": [
+    {
+      "video_id": "4010069381",
+      "question": "how do the two man play the instrument",
+      "options": {
+        "A": "roll the handle",
+        "B": "tap their feet",
+        "C": "strum the string",
+        "D": "hit with sticks",
+        "E": "pat with hand"
+      },
+      "gold": "A",
+      "pred": "C",
+      "raw_output": "C",
+      "correct": false,
+      "n_frames": 8,
+      "elapsed_sec": 920.6179978847504,
+      "captions": "Based on the image provided, here is a detailed description of how the two men are playing their instruments:\n\nThe image shows two men seated side-by-side Based on the image provided, here is a detailed description of how the two men are playing their instruments:\n\nThe image shows two men seated on chairs on Based on the image provided, here is a detailed description of how the two men are playing their instruments:\n\nThe image shows two men seated side-by-side Based on the image provided, here is a detailed description of how the two men appear to be playing their instruments:\n\nThe image shows two men seated on Based on the image provided, here is a detailed description of how the two men are playing their instruments:\n\nThe image captures a dimly lit, intimate Based on the image provided, here is a detailed description of how the two men are playing their instruments:\n\nThe image shows two men seated on stools on Based on the image provided, here is a detailed description of how the two men appear to be playing their instruments:\n\nThe image shows two men seated on Based on the blurry image provided, here is a detailed description of how the two men appear to be playing their instruments:\n\nThe image shows two men seated"
+    }
+  ]
+}
