@@ -23,7 +23,7 @@ class CaptionGenerator:
         self,
         model_name: str = "Salesforce/instructblip-flan-t5-xl",
         device: str = None,
-        max_new_tokens: int = 256,
+        max_new_tokens: int = 30,
     ):
         self.device = device or get_device()
         self.max_new_tokens = max_new_tokens
