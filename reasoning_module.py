@@ -1,4 +1,6 @@
 import re
+from typing import Optional
+
 import torch
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
@@ -22,7 +24,7 @@ Considering the information presented in the captions, select the correct answer
     return prompt.strip()
 
 
-def extract_answer_letter(text: str, valid_options) -> str | None:
+def extract_answer_letter(text: str, valid_options) -> Optional[str]:
     valid_options = set([str(x).upper() for x in valid_options])
     text = text.strip().upper()
 
@@ -39,7 +41,7 @@ def extract_answer_letter(text: str, valid_options) -> str | None:
 
 
 class ReasoningModule:
-    def __init__(self, model_name: str = "google/flan-t5-base", device: str | None = None):
+    def __init__(self, model_name: str = "google/flan-t5-base", device: Optional[str] = None):
         self.device = device or ("cuda" if torch.cuda.is_available() else "cpu")
         self.tokenizer = AutoTokenizer.from_pretrained(model_name)
         self.model = AutoModelForSeq2SeqLM.from_pretrained(model_name).to(self.device)

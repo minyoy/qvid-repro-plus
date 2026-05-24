@@ -31,6 +31,7 @@ import time
 from pathlib import Path
 
 from dataset_parser import load_nextqa
+from evaluation_metrics import collect_memory_stats, reset_memory_stats
 from frame_extractor import extract_frames
 from caption_generator import CaptionGenerator
 from reasoning_module import ReasoningModule
@@ -79,10 +80,12 @@ def main():
     results = []
     correct = 0
     total = 0
+    elapsed_values = []
 
     for idx, sample in enumerate(samples):
         print(f"\n[{idx + 1}/{len(samples)}] video_id={sample['video_id']}")
 
+        reset_memory_stats()
         start_time = time.time()
 
         try:
@@ -109,6 +112,8 @@ def main():
             total += 1
 
             elapsed = time.time() - start_time
+            elapsed_values.append(elapsed)
+            memory_stats = collect_memory_stats()
 
             result = {
                 "video_id": sample["video_id"],
@@ -120,6 +125,7 @@ def main():
                 "correct": is_correct,
                 "n_frames": args.n_frames,
                 "elapsed_sec": elapsed,         # 샘플 처리 시간
+                "memory": memory_stats,         # 샘플 처리 후 메모리 사용량
                 "captions": captions,           # InstructBLIP이 생성한 프레임 캡션들
             }
 
@@ -142,6 +148,8 @@ def main():
         results.append(result)
 
     accuracy = correct / total if total > 0 else 0.0
+    avg_elapsed = sum(elapsed_values) / len(elapsed_values) if elapsed_values else 0.0
+    final_memory_stats = collect_memory_stats()
 
     summary = {
         "total": total,  # 평가한 전체 샘플 수
@@ -149,6 +157,8 @@ def main():
         "accuracy": accuracy,  # 정확도, 0~1 사이 값
         "accuracy_percent": accuracy * 100,  # 정확도, 퍼센트 값
         "n_frames": args.n_frames,  # 샘플당 사용한 프레임 수
+        "avg_elapsed_sec": avg_elapsed,  # 샘플당 평균 처리 시간
+        "final_memory": final_memory_stats,  # 전체 실행 종료 시점의 메모리 사용량
     }
 
     save_json(
@@ -163,6 +173,8 @@ def main():
     print(f"Total: {total}")  # 평가한 전체 샘플 수
     print(f"Correct: {correct}")  # 맞힌 샘플 수
     print(f"Accuracy: {accuracy * 100:.2f}%")  # 최종 정확도
+    print(f"Avg elapsed/sample: {avg_elapsed:.2f}s")
+    print(f"Final memory: {final_memory_stats}")
     print(f"Saved to: {args.output}")  # 결과가 저장된 JSON 파일 경로
 
 

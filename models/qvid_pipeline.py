@@ -2,11 +2,12 @@ import argparse
 import json
 import time
 from pathlib import Path
-from typing import Any, Dict, List, Protocol
+from typing import Any, Dict, List, Optional, Protocol
 
 from PIL import Image
 
 from dataset_parser import load_nextqa
+from evaluation_metrics import collect_memory_stats, reset_memory_stats
 from frame_extractor import extract_frames
 from reasoning_module import build_qa_prompt, extract_answer_letter
 
@@ -84,7 +85,7 @@ def evaluate_nextqa(
     video_dir: Path,
     output: Path,
     n_frames: int,
-    limit: int | None = None,
+    limit: Optional[int] = None,
 ) -> Dict[str, Any]:
     samples = load_nextqa(csv_path, video_dir)
     if limit is not None:
@@ -93,9 +94,11 @@ def evaluate_nextqa(
     results = []
     correct = 0
     total = 0
+    elapsed_values = []
 
     for idx, sample in enumerate(samples):
         print(f"\n[{idx + 1}/{len(samples)}] video_id={sample['video_id']}")
+        reset_memory_stats()
         start_time = time.time()
 
         try:
@@ -124,6 +127,9 @@ def evaluate_nextqa(
             if is_correct:
                 correct += 1
             total += 1
+            elapsed = time.time() - start_time
+            elapsed_values.append(elapsed)
+            memory_stats = collect_memory_stats()
 
             result = {
                 "video_id": sample["video_id"],
@@ -134,7 +140,8 @@ def evaluate_nextqa(
                 "raw_output": raw_output,
                 "correct": is_correct,
                 "n_frames": n_frames,
-                "elapsed_sec": time.time() - start_time,
+                "elapsed_sec": elapsed,
+                "memory": memory_stats,
                 "captions": captions,
             }
             print(
@@ -156,6 +163,8 @@ def evaluate_nextqa(
         results.append(result)
 
     accuracy = correct / total if total > 0 else 0.0
+    avg_elapsed = sum(elapsed_values) / len(elapsed_values) if elapsed_values else 0.0
+    final_memory_stats = collect_memory_stats()
     payload = {
         "summary": {
             "total": total,
@@ -163,6 +172,8 @@ def evaluate_nextqa(
             "accuracy": accuracy,
             "accuracy_percent": accuracy * 100,
             "n_frames": n_frames,
+            "avg_elapsed_sec": avg_elapsed,
+            "final_memory": final_memory_stats,
         },
         "results": results,
     }
@@ -172,5 +183,7 @@ def evaluate_nextqa(
     print(f"Total: {total}")
     print(f"Correct: {correct}")
     print(f"Accuracy: {accuracy * 100:.2f}%")
+    print(f"Avg elapsed/sample: {avg_elapsed:.2f}s")
+    print(f"Final memory: {final_memory_stats}")
     print(f"Saved to: {output}")
     return payload
