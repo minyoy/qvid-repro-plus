@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "total": 1,
+    "correct": 1,
+    "accuracy": 1.0,
+    "accuracy_percent": 100.0,
+    "n_frames": 1,
+    "avg_elapsed_sec": 1.1605064868927002,
+    "final_memory": {
+      "process_peak_rss_mb": 20835.8984375,
+      "device": "cuda",
+      "gpu_peak_allocated_mb": 9772.01123046875,
+      "gpu_peak_reserved_mb": 10090.0
+    }
+  },
+  "results": [
+    {
+      "video_id": "4010069381",
+      "question": "how do the two man play the instrument",
+      "options": {
+        "A": "roll the handle",
+        "B": "tap their feet",
+        "C": "strum the string",
+        "D": "hit with sticks",
+        "E": "pat with hand"
+      },
+      "gold": "A",
+      "pred": "A",
+      "raw_output": "A",
+      "correct": true,
+      "n_frames": 1,
+      "elapsed_sec": 1.1605064868927002,
+      "memory": {
+        "process_peak_rss_mb": 20835.8984375,
+        "device": "cuda",
+        "gpu_peak_allocated_mb": 9772.01123046875,
+        "gpu_peak_reserved_mb": 10090.0
+      },
+      "captions": "The two men in the image appear to be playing a musical instrument, possibly a guitar or an acoustic guitar. They are"
+    }
+  ]
+}
