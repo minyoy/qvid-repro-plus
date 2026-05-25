@@ -2,7 +2,7 @@ import argparse
 import json
 import time
 from pathlib import Path
-from typing import Any, Dict, List, Protocol
+from typing import Any, Callable, Dict, List, Protocol
 
 from PIL import Image
 
@@ -46,13 +46,18 @@ def build_caption_prompt(question: str) -> str:
     return f"Provide a detailed description of the image related to the {question}"
 
 
+CaptionPromptBuilder = Callable[[str], str]
+QAPromptBuilder = Callable[[str, str, Dict[str, str]], str]
+
+
 def generate_captions_for_frames(
     backbone: QVidBackbone,
     frames: List[Image.Image],
     question: str,
+    caption_prompt_builder: CaptionPromptBuilder = build_caption_prompt,
 ) -> List[Dict[str, Any]]:
     caption_results = []
-    prompt = build_caption_prompt(question)
+    prompt = caption_prompt_builder(question)
 
     for frame_idx, frame in enumerate(frames):
         if not isinstance(frame, Image.Image):
@@ -85,6 +90,8 @@ def evaluate_nextqa(
     output: Path,
     n_frames: int,
     limit: int | None = None,
+    caption_prompt_builder: CaptionPromptBuilder = build_caption_prompt,
+    qa_prompt_builder: QAPromptBuilder = build_qa_prompt,
 ) -> Dict[str, Any]:
     samples = load_nextqa(csv_path, video_dir)
     if limit is not None:
@@ -104,9 +111,10 @@ def evaluate_nextqa(
                 backbone=backbone,
                 frames=frames,
                 question=sample["question"],
+                caption_prompt_builder=caption_prompt_builder,
             )
             captions = aggregate_captions(caption_results)
-            qa_prompt = build_qa_prompt(
+            qa_prompt = qa_prompt_builder(
                 captions=captions,
                 question=sample["question"],
                 options=sample["options"],

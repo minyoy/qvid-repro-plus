@@ -1,0 +1,371 @@
+{
+  "summary": {
+    "total": 20,
+    "correct": 15,
+    "accuracy": 0.75,
+    "accuracy_percent": 75.0,
+    "n_frames": 8
+  },
+  "results": [
+    {
+      "video_id": "4010069381",
+      "question": "how do the two man play the instrument",
+      "options": {
+        "A": "roll the handle",
+        "B": "tap their feet",
+        "C": "strum the string",
+        "D": "hit with sticks",
+        "E": "pat with hand"
+      },
+      "gold": "A",
+      "pred": "C",
+      "raw_output": "C",
+      "correct": false,
+      "n_frames": 8,
+      "elapsed_sec": 9.394775629043579,
+      "captions": "In the frame, one man is seated and appears to be strumming or plucking a stringed instrument with his hands, while the other man Two men are seated, each holding a stringed instrument resembling a mandolin or small guitar; their hands are positioned over the bodies of the instruments, One man is seated and holding a stringed instrument with his left hand on the neck and right hand near the body, while the other man, also Two men are seated, each holding a stringed instrument, with their hands positioned over the bodies of the instruments as if strumming or plucking Two men are seated, each holding a stringed instrument resembling a lute or oud; one strums while the other appears to pluck or str Two men are seated, each holding a stringed instrument, with their hands positioned over the bodies of the instruments as if strumming or plucking Two men are seated, each holding a stringed instrument resembling a guitar; their hands are positioned over the bodies of the instruments, suggesting they are actively Two men are seated, each holding a stringed instrument, with their hands positioned over the bodies of the instruments as if strumming or plucking"
+    },
+    {
+      "video_id": "4882821564",
+      "question": "why did the boy pick up one present from the group of them and move to the sofa",
+      "options": {
+        "A": "share with the girl",
+        "B": "approach lady sitting there",
+        "C": "unwrap it",
+        "D": "playing with toy train",
+        "E": "gesture something"
+      },
+      "gold": "C",
+      "pred": "C",
+      "raw_output": "C",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 9.100766897201538,
+      "captions": "There is no boy or present visible in the frame, and no action of picking up or moving to a sofa can be observed. The scene depicts an The boy is seated on a patterned rug near a decorated Christmas tree and several wrapped presents, with his hands engaged with one gift. He is oriented The boy, wearing a striped shirt and blue pants, is holding one wrapped present while standing near a pink upholstered sofa, with his body oriented toward The boy, standing before the sofa, has his right hand extended toward a patterned pillow resting on the seat, suggesting he is interacting with or selecting The boy, standing beside the sofa, has one hand raised toward the cushions while holding a wrapped present in his other hand, suggesting he is in the The boy, standing beside the sofa, has his right arm extended toward the cushions, suggesting he is interacting with or placing an object on the sofa. The boy stands barefoot in front of a pink striped sofa, wearing blue pajamas with a “Get Set” graphic, and appears to be looking The boy is kneeling on a patterned rug near a decorated Christmas tree, reaching toward a wrapped present on the floor. His body is oriented toward the"
+    },
+    {
+      "video_id": "2435100235",
+      "question": "how does the man cycling try to sell the watch to the man in the trishaw",
+      "options": {
+        "A": "give him catalogue",
+        "B": "show him a video",
+        "C": "show him the watch",
+        "D": "dismount his bicycle",
+        "E": "give him the watch strap"
+      },
+      "gold": "C",
+      "pred": "C",
+      "raw_output": "C",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 8.969472885131836,
+      "captions": "In this frame, a person on a bicycle with a basket is positioned near a row of trishaws, while another individual sits inside one of the In this frame, a man is visible in the foreground, partially obscuring the view, while a tricycle with a red-and-yellow canopy is parked In this frame, a man in a light-colored vest stands near a red-covered tricycle, facing away from the camera, while another man in a In this frame, a man in a beige vest walks away from the camera toward a trishaw with a red canopy displaying “To the hut” The man cycling is seen from behind, leaning slightly forward with his hands on the handlebars, while the man in the trishaw, also viewed The man on the bicycle is facing away from the camera, holding an object in his right hand, while the man in the orange vest, seated in The man on the bicycle is extending his right hand toward the tricycle driver, holding an object that appears to be a watch, suggesting an attempt to The man on the bicycle is extending his right hand toward the person in the tricycle, appearing to offer or present something, possibly the watch, while"
+    },
+    {
+      "video_id": "2834146886",
+      "question": "what does the white dog do after going to the cushion",
+      "options": {
+        "A": "drink again",
+        "B": "shake its body",
+        "C": "smells the black dog",
+        "D": "wagging tail",
+        "E": "touch lady in blue stripes"
+      },
+      "gold": "C",
+      "pred": "C",
+      "raw_output": "C",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 7.956380844116211,
+      "captions": "In this frame, the white dog is positioned on a wooden floor, facing a small black animal, with no visible cushion nearby. The dog’s body In this frame, a small dark-colored dog is visible near the base of a gray couch on a wooden floor, with a white cord and part of The visible scene shows a black dog lying on a light-colored wooden floor, viewed from above, with no cushion or white dog present in the frame. In this frame, a small black dog is seen on a patterned circular cushion, appearing to interact with something on or near the cushion’s surface. The white dog is positioned on a patterned cushion, leaning forward with its head lowered toward the surface, appearing to focus on something near its paws The frame shows a dark cushioned surface with light-colored wooden edges, likely part of a chair or ottoman, positioned on a wooden floor. No The dog is positioned under a piece of furniture on a tiled floor, with its head lowered and front paws near the ground, suggesting it may be The frame shows a dark-colored animal, likely a dog, in motion near a light-colored tiled floor, with no visible cushion or clear indication of prior"
+    },
+    {
+      "video_id": "8132842161",
+      "question": "why did the man in white hold tightly to the boy in white",
+      "options": {
+        "A": "forcing boy to look straight",
+        "B": "dancing with boy",
+        "C": "posing for camera",
+        "D": "prevent falling off",
+        "E": "boy keeps moving around"
+      },
+      "gold": "D",
+      "pred": "D",
+      "raw_output": "D",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 8.043407917022705,
+      "captions": "The man in white holds the boy tightly with both arms around his torso, keeping him upright and close to his body, while the boy faces forward toward The man in white is holding the boy in white securely with both arms around his torso, and the boy is facing away, looking toward a colorful, The man in white is holding the boy in white close with both hands, his arms wrapped around the child’s torso, while the boy faces away and The man in white is holding the boy in white with both arms wrapped around his torso, and the boy is facing away, looking toward a colorful, The man in white is holding the boy in white closely, with his arms wrapped around the child’s torso, suggesting he is supporting or steadying him There are no people visible in the frame; instead, several seagulls are perched on rocky terrain in front of a colorful, aquatic-themed mural The man in white is holding the boy in white closely, with his arm wrapped around the child’s torso and his hand near the boy’s shoulder, The man in white is holding the boy in white closely, with his arm wrapped around the boy’s torso, suggesting a protective or stabilizing gesture."
+    },
+    {
+      "video_id": "4260763967",
+      "question": "why is the boy in yellow reaching out to things on the green mat",
+      "options": {
+        "A": "team uniform",
+        "B": "watch something in the pool",
+        "C": "assembling parts to build toy",
+        "D": "keep his belonging",
+        "E": "grab remote control"
+      },
+      "gold": "C",
+      "pred": "C",
+      "raw_output": "C",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 8.811626672744751,
+      "captions": "The boy in yellow is seated on the floor near the green mat, with his hands extended toward scattered toys and pieces on the mat, suggesting he is The boy in yellow is leaning forward with his right hand extended toward items on the green mat, suggesting he is interacting with or selecting objects nearby. His The boy, wearing a blue shirt, is seated on a green mat and is focused on manipulating a small toy with both hands. His body is leaned The boy in yellow is partially visible on the left side of the frame, seated on the floor with his legs extended, and appears to be reaching toward The boy, wearing a blue shirt, is seated on a green mat and is focused on manipulating a small toy with both hands. His body is oriented The boy, wearing a blue and dark shirt, is seated on a green mat and appears to be interacting with small objects in his hands. His body The boy, wearing a blue and gray shirt, is seated on a green mat and is actively manipulating a small, dark-colored toy with both hands. The boy, wearing a blue and dark shirt, is seated on the floor with his right hand extended toward a collection of small toys arranged on a green"
+    },
+    {
+      "video_id": "3462517143",
+      "question": "why is the white dog walking around the green container",
+      "options": {
+        "A": "chasing",
+        "B": "get drink",
+        "C": "fashion for dogs",
+        "D": "leading the way",
+        "E": "excited"
+      },
+      "gold": "B",
+      "pred": "B",
+      "raw_output": "B",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 8.786803245544434,
+      "captions": "The white dog is positioned near the edge of the green container, with its head lowered into the water, suggesting it is drinking or investigating the contents. The white dog is positioned near the edge of the green container, with its body oriented toward the water and its head lowered, suggesting it is interacting with There is no white dog visible in the frame; the dog present is brown and standing in the green container. The brown dog appears to be interacting with The white dog is positioned near the edge of the green container, with its body oriented away from the water and its head lowered, suggesting it may be The white dog is partially visible near the green container, positioned on the grass beside it, with its body oriented away from the container. The brown dog The white dog is positioned near the edge of a green plastic kiddie pool filled with water, with its head lowered as if sniffing or investigating the The white dog is standing near a green plastic kiddie pool on a grassy yard, with its body oriented toward the pool and its head slightly turned The white dog is positioned near the green plastic container, which appears to be filled with water and has a hose connected to it, suggesting the dog may"
+    },
+    {
+      "video_id": "3441428429",
+      "question": "what does the female skater do after the male skater puts her back down on the ice",
+      "options": {
+        "A": "put hand in mouth",
+        "B": "continue skating",
+        "C": "jump",
+        "D": "move her arms up and down",
+        "E": "laugh and run forward"
+      },
+      "gold": "B",
+      "pred": "B",
+      "raw_output": "B",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 9.06095838546753,
+      "captions": "In this frame, the female skater is positioned upright beside the male skater, who is kneeling on one knee with his arms extended outward. Her In this frame, the female skater is seen gliding forward on the ice, wearing a purple dress, while the male skater, dressed in In this frame, the female skater is positioned low to the ice, appearing to be supported or held by the male skater, who is partially In this frame, the female skater is being held by the male skater in a lifted position, with her body angled upward and her arms extended In this frame, the female skater is positioned close to the male skater, both appearing to be in motion on the ice under purple lighting. In this frame, the female skater is positioned low to the ice with bent knees and arms slightly extended, appearing to be in motion or recovering balance In this frame, the female skater is in a low, crouched position on the ice, appearing to be supported or steadied by the The image shows a blurred scene with two figures on ice, one appearing to be a female skater near the right edge and another figure, possibly male"
+    },
+    {
+      "video_id": "6356067859",
+      "question": "what does the girl in white do after bending down in the middle",
+      "options": {
+        "A": "grab her",
+        "B": "feed horse with grass",
+        "C": "run towards the camera",
+        "D": "umbrella",
+        "E": "put her arms up"
+      },
+      "gold": "B",
+      "pred": "B",
+      "raw_output": "B",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 8.833730936050415,
+      "captions": "In this frame, the girl in white is positioned near the horse’s head, with her body slightly bent forward and her hands reaching toward the horse’s In this frame, the girl in white stands upright beside the pony, facing it, with her hands near her sides and her head slightly tilted toward the In this frame, the girl in white is bent down, reaching toward the small brown pony with her right hand extended, appearing to offer or touch the In this frame, the girl in white is bent down near the pony’s front legs, with her hands positioned close to the ground, appearing to interact In this frame, the girl in white is bent down with her right hand extended toward the small brown pony’s head, appearing to pet or interact with The girl in white is crouched low to the ground with her hands near the grass, facing away from the camera, while a small dark pony In this frame, the girl in white is bent down near the dark-colored pony, with her hands positioned close to the pony’s head or neck area The girl in white is positioned close to the small dark horse, with her body slightly bent forward and her hands near the horse’s head or neck area"
+    },
+    {
+      "video_id": "5026660202",
+      "question": "why are there high chairs on the stage",
+      "options": {
+        "A": "to place the microphones",
+        "B": "for guitarists to sit comfortably",
+        "C": "for audience to sit",
+        "D": "to act as displays",
+        "E": "to take up stage spaces"
+      },
+      "gold": "B",
+      "pred": "B",
+      "raw_output": "B",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 8.880737543106079,
+      "captions": "The stage features musicians playing instruments under purple lighting, with no visible high chairs in the frame. The performers are positioned around a drum kit and guitars, The stage features several musicians seated on high stools, including a guitarist and a drummer, positioned to play their instruments while elevated. The stools are placed near Several musicians are seated on tall, narrow stools on a dimly lit stage, positioned to play instruments like guitars and drums while facing forward toward an audience Several musicians are seated on high chairs on the stage, positioned to play instruments like guitars and drums while facing forward toward an audience. Their body orientations and On the stage, several musicians are seated on high chairs while playing instruments, including guitars and drums, with their bodies oriented toward the audience and hands positioned The stage features several musicians, including guitarists and a drummer, seated on high chairs or stools positioned at varying heights. One guitarist is seated on a On the stage, three musicians are seated on high chairs while playing instruments; one holds a guitar, another plays a bass guitar, and the third is The stage features several musicians, including one seated on a high chair while playing an acoustic guitar, and another standing near a drum kit. The high chairs"
+    },
+    {
+      "video_id": "9873067604",
+      "question": "why did the boy in white sway his head around",
+      "options": {
+        "A": "he is looking through it",
+        "B": "see where the ball is falling",
+        "C": "talking",
+        "D": "acting",
+        "E": "moving with rhythm"
+      },
+      "gold": "C",
+      "pred": "C",
+      "raw_output": "C",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 8.047850370407104,
+      "captions": "The boy in white is seated in the back of a vehicle, facing forward with his head turned slightly toward the center, appearing to engage with the person The boy in white is seated in the back of a car, looking upward and smiling, with his head tilted slightly to his right. A hand is The boy in white is seated in the back of a car, leaning slightly forward with his head tilted to the side, smiling broadly. His right hand The boy in white is seated in the back of a car, facing forward with his head slightly turned to his right, looking toward the girl beside him The boy in white is seated in the back of a car, smiling and looking toward the camera, with his head slightly tilted and turned to his right The boy in white is seated in the back of a car, smiling broadly and looking toward the other child, whose back is to the camera. His The boy in white is seated in the back of a vehicle, smiling broadly and looking toward the person in front of him, with his hand resting on The boy in white is seated in the back of a moving vehicle, smiling broadly with his head slightly turned toward the girl beside him, suggesting he is"
+    },
+    {
+      "video_id": "5735711594",
+      "question": "how did the white dog respond to the brown dog when it attacks from its tail",
+      "options": {
+        "A": "follow it",
+        "B": "hopped away",
+        "C": "wagging",
+        "D": "ready to run away",
+        "E": "move his head"
+      },
+      "gold": "B",
+      "pred": "D",
+      "raw_output": "D",
+      "correct": false,
+      "n_frames": 8,
+      "elapsed_sec": 7.367467641830444,
+      "captions": "In this frame, the white dog is positioned with its body angled away from the brown dog, which is facing it with its tail raised and appears to In this frame, the white dog is standing upright on its hind legs with its front paws raised, facing the brown dog, which is positioned near In this frame, the white dog is positioned with its body upright and head raised, facing away from the brown dog, which is near its rear. In this frame, the white dog is positioned close to the brown dog, with its body angled slightly away and its head turned toward the brown dog’s In this frame, the white dog is positioned close to the brown dog, with its body angled toward the brown dog’s rear, suggesting it is reacting In this frame, the white dog is lying on the ground with its body oriented toward the brown dog, which is positioned near its tail and appears to In this frame, the white dog is lying on the ground with its body oriented toward the brown dog, which is standing upright and facing the white dog The white dog is lying on its side on the pavement with its legs extended, while the brown dog stands over it with its front paws near the"
+    },
+    {
+      "video_id": "9088819598",
+      "question": "why does the baby keep the ball near his mouth in the beginning",
+      "options": {
+        "A": "take a photo",
+        "B": "lick it",
+        "C": "smelling the ball",
+        "D": "blow it away",
+        "E": "kiss it"
+      },
+      "gold": "B",
+      "pred": "C",
+      "raw_output": "C",
+      "correct": false,
+      "n_frames": 8,
+      "elapsed_sec": 8.760267972946167,
+      "captions": "The baby is lying on its back in a patterned baby seat, holding an orange textured ball close to its mouth with both hands, suggesting oral exploration The baby is lying on its back in a blue patterned bouncer, holding an orange textured ball close to its mouth with both hands, suggesting oral The baby is lying on its back in a patterned recliner, holding an orange textured ball close to its mouth with both hands, suggesting oral exploration The baby is lying on its back in a blue patterned bouncer, holding an orange textured ball near its mouth with one hand while the other arm The baby is lying on its back in a blue patterned bouncer, holding an orange textured ball with both hands, and the ball is positioned close The baby is lying on its back in a blue patterned bouncer, holding an orange textured ball near its mouth with one hand, while the other The baby is lying on its back in a blue patterned seat, holding an orange ball with holes near its chest, with one hand gripping the ball In this frame, the baby is lying on a blue patterned bouncer, wearing a striped shirt and holding a colorful toy near their mouth. The"
+    },
+    {
+      "video_id": "5296635780",
+      "question": "what does the man do after the lady appear to punch him and smiles",
+      "options": {
+        "A": "look at him",
+        "B": "touch their chests",
+        "C": "kick him",
+        "D": "lean forward",
+        "E": "sit back properly"
+      },
+      "gold": "D",
+      "pred": "D",
+      "raw_output": "D",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 8.734808206558228,
+      "captions": "The man is facing the woman, his head slightly tilted toward her as she extends her gloved hand near his face. He appears to be looking at In this frame, the bride is positioned close to the groom, her gloved hand raised near his face in a gesture that resembles a playful punch, The man is smiling and leaning slightly toward the woman, with his head tilted as if reacting to her gesture. His right hand is raised near his face The man is shown with his mouth slightly open and his head tilted back, appearing to react to the woman’s gesture, while she holds her gloved The man stands beside the woman, smiling and looking toward the camera, with his right hand slightly raised near his chest. He wears a suit with a In this frame, the man is smiling and looking at the woman, with his right hand slightly extended toward her. The woman is turned toward him, In this frame, the man and woman are standing close, facing each other, with the woman holding a bouquet and the man wearing a boutonni In this frame, the man stands beside the woman, looking downward with a slight smile, while she holds a bouquet and gazes forward with a neutral"
+    },
+    {
+      "video_id": "2614918961",
+      "question": "why does the baby turn around near the end of the video",
+      "options": {
+        "A": "yawning",
+        "B": "sits down to play",
+        "C": "to see the toy",
+        "D": "move towards toy",
+        "E": "curious"
+      },
+      "gold": "B",
+      "pred": "C",
+      "raw_output": "C",
+      "correct": false,
+      "n_frames": 8,
+      "elapsed_sec": 8.820945024490356,
+      "captions": "The baby is seated at a wooden table, holding a red object near their mouth, with one hand resting on the table surface. Their head is turned The baby, wearing a red long-sleeved shirt, is seated at a wooden table with a red block in one hand and a yellow object near The baby, wearing a red long-sleeved shirt, is leaning forward over a wooden surface with arms extended, one hand near a red textured object The baby is seated at a wooden surface, holding red and yellow blocks, with a transparent storage bin nearby. The baby’s head is turned slightly toward The baby, wearing a red shirt and holding a red block, is leaning forward on a wooden table with their head resting on their arms. Another child The baby, wearing a pink long-sleeved shirt, is seated at a wooden table with arms extended forward, hands near a red object. The The baby is positioned face-down on a wooden surface, with their head resting near a red toy and one hand gripping it. Their body orientation suggests they The baby is lying on its back near a wooden structure, with a person in a gray shirt partially visible nearby, holding a green object. The baby"
+    },
+    {
+      "video_id": "6201488511",
+      "question": "why did the lady put her hands over her eyes in the middle of the video",
+      "options": {
+        "A": "posing in the camera",
+        "B": "adjust her hair",
+        "C": "protection from sun",
+        "D": "to wipe her eyes",
+        "E": "cue woman to talk"
+      },
+      "gold": "C",
+      "pred": "D",
+      "raw_output": "D",
+      "correct": false,
+      "n_frames": 8,
+      "elapsed_sec": 8.258554458618164,
+      "captions": "In this frame, the lady is holding a red travel mug in one hand and has her other hand near her face, but not covering her eyes. In this frame, the lady is holding a red cup in one hand and has her other hand near her face, but not visibly covering her eyes. In this frame, the lady is looking upward with her head tilted back, and her hands are not visible over her eyes. The man beside her is In this frame, the lady is not covering her eyes; instead, her right hand is raised near the back of her neck, and she is looking In this frame, the lady is standing with her hands on her hips, looking upward and to the side, not covering her eyes. The man beside In this frame, the lady is holding a red cup in one hand and has her other hand near her face, but not covering her eyes; she In this frame, the lady has her right hand raised near her face, with her fingers partially covering her eyes, while her head is tilted slightly upward In this frame, the lady is shown in profile with her hand near her neck, not over her eyes, and her gaze directed upward. The man"
+    },
+    {
+      "video_id": "2976913210",
+      "question": "how did the man respond when he is stuck in the dirt",
+      "options": {
+        "A": "touched his head",
+        "B": "pointing towards the jumping line",
+        "C": "kept trying",
+        "D": "prepare to swing again",
+        "E": "looking at the floor"
+      },
+      "gold": "C",
+      "pred": "C",
+      "raw_output": "C",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 8.756678581237793,
+      "captions": "The man is seated on the ATV, facing away from the camera, with his hands likely on the handlebars, as the vehicle is partially submerged in The man is seated on the ATV, leaning forward slightly with his hands gripping the handlebars, as the vehicle is partially submerged in muddy water near a The man is seated on the ATV, leaning forward with his hands on the handlebars, appearing to exert effort as the vehicle is partially submerged in muddy The man is seated on the ATV, facing away from the camera, with his hands positioned on the handlebars as the vehicle is partially submerged in muddy The man is seated on the ATV, leaning forward with his hands on the handlebars, appearing to exert effort as the vehicle is partially submerged in muddy The man is bent over the rear of the ATV, with his upper body leaning forward and his hands positioned near the vehicle’s rear section, suggesting he The man is seated on the ATV, leaning forward slightly with his hands near the handlebars, appearing to assess the situation as the vehicle is partially submerged The man is seated on the ATV, leaning forward slightly with both hands gripping the handlebars, as the vehicle churns through muddy water, suggesting he"
+    },
+    {
+      "video_id": "2793260225",
+      "question": "how did the lady and man on top try to keep their balance",
+      "options": {
+        "A": "hold the ropes tightly",
+        "B": "held each other",
+        "C": "walk side to side",
+        "D": "hold ski stick",
+        "E": "standing still"
+      },
+      "gold": "B",
+      "pred": "B",
+      "raw_output": "B",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 7.201575994491577,
+      "captions": "The woman on top leans forward with her arms extended, gripping the shoulders of the man beneath her, while the man supports her by holding her waist and The man on top leans forward with his arms extended, gripping the shoulders of the person below, while the woman on top balances by placing her hands on The man and woman on top are leaning forward with arms extended, gripping each other and the person below for support, while their legs are positioned to brace The man on top is crouched low with his arms wrapped around the woman’s waist, while she stands upright with her arms around his shoulders, The man on top leans forward with his arms extended, gripping the shoulders of the person beneath him, while the lady beside them reaches out with both arms The man in the foreground is partially submerged with his head and shoulders above water, facing slightly sideways, while the woman on the right is leaning forward with The man in the water is standing upright with his arms slightly raised and hands near his shoulders, while the person partially visible on the right has their back"
+    },
+    {
+      "video_id": "7508439506",
+      "question": "why did the boy put his hands on the baby",
+      "options": {
+        "A": "play with baby",
+        "B": "to give her food",
+        "C": "play",
+        "D": "support the baby",
+        "E": "fall and pounce on the boy"
+      },
+      "gold": "A",
+      "pred": "A",
+      "raw_output": "A",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 8.789232015609741,
+      "captions": "The boy is positioned above the baby, with his hands gently placed on the baby’s torso, while the baby lies on its back on a green surface The baby is lying on its back with arms raised and mouth open, appearing to laugh or cry, while an adult’s arm and torso are visible nearby The baby is lying on its back on a green surface, wearing a white onesie with a cartoon design, and has one hand raised near its face The baby is lying on its back on a green surface, with one hand raised near its face and the other extended outward. An adult wearing a blue The baby is lying on its back on a green surface, wearing a white onesie with a cartoon character, while a person with reddish hair leans The baby is lying on its back on a green surface, wearing a white onesie, and appears to be looking toward the right side of the frame The baby is lying on its back on a green surface, wearing a white onesie with a cartoon design, and appears to be smiling. An adult The baby is lying on its back on a green surface, wearing a white onesie with a deer graphic, and appears to be smiling broadly. An"
+    },
+    {
+      "video_id": "7508439506",
+      "question": "where is this video taken",
+      "options": {
+        "A": "swimming pool",
+        "B": "outdoor",
+        "C": "field",
+        "D": "desert",
+        "E": "bed room"
+      },
+      "gold": "E",
+      "pred": "E",
+      "raw_output": "E",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 8.680612325668335,
+      "captions": "The scene shows a baby lying on its back on a green surface, possibly a bed or changing pad, with a patterned blanket nearby. An adult A baby lies on its back on a green surface, mouth open as if laughing or crying, with arms raised and hands near its face. Behind the A baby lies on its back on a green surface, wearing a white onesie with a cartoon design, while an adult in a blue shirt and dark A baby wearing a white onesie with a cartoon animal design lies on a green surface, possibly a bed or couch, while an adult in a blue A baby wearing a white onesie with a cartoon character is lying on their back on a green surface, smiling and looking toward the right side of the A baby is lying on its back on a green surface, wearing a white onesie with faint graphics, and appears to be looking toward the camera. A baby wearing a white onesie with a cartoon animal design lies on a green surface, possibly a blanket or bedsheet, while an adult’s arm A baby wearing a white onesie with a reindeer design is lying on a green surface, smiling broadly at the camera. Part of an adult’s"
+    }
+  ]
+}
