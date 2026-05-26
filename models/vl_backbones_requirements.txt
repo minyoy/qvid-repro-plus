@@ -1,2 +1,0 @@
-# Install the root requirements first. These adapters need current VL model APIs.
-transformers>=4.57.0
