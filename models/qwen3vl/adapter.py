@@ -1,4 +1,4 @@
-from typing import Dict
+from typing import Dict, Optional
 
 import torch
 from PIL import Image
@@ -22,7 +22,7 @@ class Qwen3VLBackbone:
     def __init__(
         self,
         model_name: str = "Qwen/Qwen3-VL-4B-Instruct",
-        device: str | None = None,
+        device: Optional[str] = None,
         max_caption_new_tokens: int = 30,
         max_answer_new_tokens: int = 8,
     ):

@@ -1,0 +1,498 @@
+{
+  "summary": {
+    "total": 20,
+    "correct": 13,
+    "accuracy": 0.65,
+    "accuracy_percent": 65.0,
+    "n_frames": 32,
+    "avg_elapsed_sec": 12.982726764678954,
+    "final_memory": {
+      "process_peak_rss_mb": 20192.0625,
+      "device": "cuda",
+      "gpu_peak_allocated_mb": 20045.3544921875,
+      "gpu_peak_reserved_mb": 21250.0
+    }
+  },
+  "results": [
+    {
+      "video_id": "4010069381",
+      "question": "how do the two man play the instrument",
+      "options": {
+        "A": "roll the handle",
+        "B": "tap their feet",
+        "C": "strum the string",
+        "D": "hit with sticks",
+        "E": "pat with hand"
+      },
+      "gold": "A",
+      "pred": "C",
+      "raw_output": "C",
+      "correct": false,
+      "n_frames": 32,
+      "elapsed_sec": 17.364493131637573,
+      "memory": {
+        "process_peak_rss_mb": 20192.0625,
+        "device": "cuda",
+        "gpu_peak_allocated_mb": 20058.16796875,
+        "gpu_peak_reserved_mb": 20788.0
+      },
+      "captions": "The two men in the image appear to be playing a musical instrument, possibly a guitar or an acoustic guitar. They are The two men in the image appear to be playing a stringed instrument, possibly a guitar or a mandolin. They are The two men in the image appear to be playing a musical instrument, possibly a guitar or an acoustic guitar. They are The two men in the image appear to be playing a variety of musical instruments, including a guitar and a mandolin. They are The two men in the image appear to be playing a variety of musical instruments, including a guitar and a mandolin. They are The two men in the image appear to be playing a variety of musical instruments, including a guitar and a mandolin. They are The two men in the image appear to be playing a musical instrument together, with one of them playing the guitar and the other playing the mand The two men in the image appear to be playing a musical instrument together, with one of them holding a guitar and the other playing a The two men in the image appear to be playing a variety of musical instruments, including a guitar and a mandolin. They are The two men in the image appear to be playing guitars, with one of them sitting on a chair while the other sits on a The two men in the image appear to be playing guitars, with one of them holding a guitar while the other plays a different instrument. The two men appear to be playing the guitar together, with one of them seated on a chair and the other sitting on a stool. The two men in the image appear to be playing a guitar together, with one of them sitting on a chair while the other sits on The two men in the image appear to be playing a musical instrument together, with one of them holding the guitar while the other man plays the guitar The two men in the image appear to be playing a guitar together, with one of them sitting on a chair while the other sits on The two men in the image appear to be playing a stringed instrument together, with one of them playing the guitar and the other playing the The two men in the image appear to be playing a guitar together, with one of them sitting on a chair while the other man sits The two men in the image appear to be playing a musical instrument, possibly a guitar or a mandolin. They are sitting on The two men in the image appear to be playing a guitar together, with one of them sitting on a chair while the other sits on The two men in the image appear to be playing a guitar together, with one of them sitting on a chair while the other sits on The two men in the image appear to be playing a variety of musical instruments, including a guitar and a mandolin. They are The two men in the image appear to be playing a musical instrument, possibly a guitar or an acoustic guitar. They are The two men in the image appear to be playing a stringed instrument, possibly a guitar or a mandolin. They are The two men in the image appear to be playing a variety of musical instruments, including a guitar and a mandolin. They are The two men in the image appear to be playing a variety of musical instruments, including guitars, drums, and percussion instruments. They The two men in the image appear to be playing a guitar together, with one of them playing the guitar while the other man plays the guitar. The two men in the image appear to be playing the guitar together, with one of them sitting on a chair while the other sits on the The two men in the image appear to be playing the guitar together, with one of them sitting on a chair while the other sits on the The two men in the image appear to be playing guitars together, with one of them playing the guitar while the other man plays the bass guitar. The two men in the image appear to be playing a musical instrument, possibly a guitar or a mandolin. They are sitting on The two men in the image appear to be playing a musical instrument together, with one of them holding a guitar while the other plays a The two men in the image appear to be playing a guitar together, with one of them sitting on a chair while the other sits on"
+    },
+    {
+      "video_id": "4882821564",
+      "question": "why did the boy pick up one present from the group of them and move to the sofa",
+      "options": {
+        "A": "share with the girl",
+        "B": "approach lady sitting there",
+        "C": "unwrap it",
+        "D": "playing with toy train",
+        "E": "gesture something"
+      },
+      "gold": "C",
+      "pred": "E",
+      "raw_output": "E",
+      "correct": false,
+      "n_frames": 32,
+      "elapsed_sec": 13.004294395446777,
+      "memory": {
+        "process_peak_rss_mb": 20192.0625,
+        "device": "cuda",
+        "gpu_peak_allocated_mb": 20065.89794921875,
+        "gpu_peak_reserved_mb": 21196.0
+      },
+      "captions": "Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy appears to have picked up one present from the Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them The boy picked up one present from the group of them and moved to the sofa, indicating that he was receiving a gift from his mother Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy appears to be picking up a gift from Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them Why did the boy pick up one present from the group of them and move to the sofa? The boy picked up one present from the group of them"
+    },
+    {
+      "video_id": "2435100235",
+      "question": "how does the man cycling try to sell the watch to the man in the trishaw",
+      "options": {
+        "A": "give him catalogue",
+        "B": "show him a video",
+        "C": "show him the watch",
+        "D": "dismount his bicycle",
+        "E": "give him the watch strap"
+      },
+      "gold": "C",
+      "pred": "C",
+      "raw_output": "C",
+      "correct": true,
+      "n_frames": 32,
+      "elapsed_sec": 12.878715515136719,
+      "memory": {
+        "process_peak_rss_mb": 20192.0625,
+        "device": "cuda",
+        "gpu_peak_allocated_mb": 20066.72802734375,
+        "gpu_peak_reserved_mb": 21196.0
+      },
+      "captions": "How does the man cycling try to sell the watch to the man in the trishaw? In the image, a man on a bicycle is How does the man cycling try to sell the watch to the man in the trishaw? The man on the bike is trying to sell a watch The man cycling in the image tries to sell a watch to the man in the trishaw. The man in the trishaw appears to be How does the man cycling try to sell the watch to the man in the trishaw? The man cycling is attempting to sell a watch to The man cycling is trying to sell a watch to the man in the trishaw. The man in the trishaw appears to be interested in the The man cycling in the image is trying to sell a watch to the man in the trishaw. The man in the trishaw appears to be The man cycling in the image tries to sell a watch to the man in the trishaw. The man in the trishaw appears to be The man cycling in the image tries to sell the watch to the man in the trishaw. The man in the trishaw appears to be interested How does the man cycling try to sell the watch to the man in the trishaw? The man cycling is trying to sell a watch to the How does the man cycling try to sell the watch to the man in the trishaw? The man cycling appears to be trying to sell a watch The man cycling in the image tries to sell a watch to the man in the trishaw. The man in the trishaw appears to be How does the man cycling try to sell the watch to the man in the trishaw? The man cycling is trying to sell a watch to the The man cycling in the image tries to sell a watch to the man in the trishaw. The man in the trishaw appears to be The man cycling in the image tries to sell a watch to the man in the trishaw. The man in the trishaw appears to be The man cycling in the image tries to sell a watch to the man in the trishaw. The man in the trishaw appears to be The man cycling in the image tries to sell a watch to the man in the trishaw. The man in the trishaw appears to be The man cycling in the image tries to sell a watch to the man in the trishaw. The man in the trishaw appears to be The man cycling is trying to sell a watch to the man in the trishaw. The man in the trishaw appears to be interested in the The man cycling in the image tries to sell a watch to the man in the trishaw. The man in the trishaw appears to be The man cycling in the image tries to sell a watch to the man in the trishaw. The man in the trishaw appears to be The man cycling is trying to sell a watch to the man in the trishaw. The man in the trishaw appears to be interested in the How does the man cycling try to sell the watch to the man in the trishaw? In the image, there is a man riding a The man cycling in the image tries to sell a watch to the man in the trishaw. The man in the trishaw appears to be The man cycling in the image tries to sell a watch to the man in the trishaw. The man in the trishaw appears to be The man cycling in the image tries to sell a watch to the man in the trishaw. The man in the trishaw appears to be The man cycling in the image tries to sell a watch to the man in the trishaw. The man in the trishaw appears to be The man cycling in the image tries to sell a watch to the man in the trishaw. The man in the trishaw appears to be The man cycling in the image tries to sell the watch to the man in the trishaw. The man in the trishaw appears to be interested The man cycling in the image tries to sell a watch to the man in the trishaw. The man in the trishaw appears to be The man cycling in the image is trying to sell a watch to the man in the trishaw. The man in the trishaw appears to be The man cycling in the image tries to sell a watch to the man in the trishaw. The man in the trishaw appears to be The man cycling tries to sell the watch to the man in the trishaw. The man in the trishaw appears to be interested in buying the"
+    },
+    {
+      "video_id": "2834146886",
+      "question": "what does the white dog do after going to the cushion",
+      "options": {
+        "A": "drink again",
+        "B": "shake its body",
+        "C": "smells the black dog",
+        "D": "wagging tail",
+        "E": "touch lady in blue stripes"
+      },
+      "gold": "C",
+      "pred": "C",
+      "raw_output": "C",
+      "correct": true,
+      "n_frames": 32,
+      "elapsed_sec": 12.582378149032593,
+      "memory": {
+        "process_peak_rss_mb": 20192.0625,
+        "device": "cuda",
+        "gpu_peak_allocated_mb": 19948.50146484375,
+        "gpu_peak_reserved_mb": 21196.0
+      },
+      "captions": "The white dog approaches the cushion and sits down on it, indicating that it is ready to play with the small black and white dog. The The white dog lays down on the cushion after going to it. It appears to be resting its head on the cushion, indicating that it After going to the cushion, the white dog lays down on the floor. After going to the cushion, the white dog lays down on the floor. After going to the cushion, the white dog lays down on the couch. After going to the cushion, the white dog lays down on the floor. The white dog is standing on the wooden floor, looking at the cushion in front of it. It appears to be curious about the object, as it After going to the cushion, the white dog stares at the camera with its eyes wide open. After going to the cushion, the white dog sits on it and looks up at the camera. After going to the cushion, the white dog lays down on the floor and looks up at the ceiling. The white dog approaches the cushion with its front paws, indicating that it is interested in the person's foot. The dog seems to The white dog approaches the cushion with its front paws and sits on top of it. The dog seems to be enjoying the comfort of the The white dog lays down on the cushion after going to it. It appears to be enjoying its time in the pet bed, which is filled with The white dog jumps onto the cushion and lays down on it. The dog appears to be enjoying its time on the cushion and seems to be The white dog jumps onto the cushion after going to it. The dog appears to be enjoying its time on the cushion and is likely playing with it The white dog approaches the cushion and lays down on top of it. The dog seems to be enjoying its time on the cushion, as it looks The white dog lays down on the cushion and sniffs at the small dog nearby. The dog seems to be interested in playing with the small dog After going to the cushion, the white dog looks at the small dog, which appears to be playful and curious. The dog seems to be interested in The white dog approaches the cushion and sniffs at it, indicating that it is interested in the object. The dog may be curious about the object The white dog goes to the cushion and sniffs the small black dog, which is lying on top of it. The dog seems to be interested in After going to the cushion, the white dog lays down on it and sniffs around. After going to the cushion, the white dog lays on top of it and sniffs around. The white dog lays down on the black cushion, indicating that it is comfortable and relaxed. The dog appears to be enjoying its time on the After going to the cushion, the white dog lays down on the floor and rests his head on the cushion. The white dog lays down on the cushion after going to the stairs. It appears to be resting on the cushion, indicating that it is After going to the cushion, the white dog takes a nap on it. The white dog lies down on the cushion, indicating that it is comfortable and relaxed. It appears to be resting after going to the cushion, After going to the cushion, the white dog sits on it and looks up at the camera. The white dog lays down on the cushion after going to it. The dog seems to be enjoying the soft surface of the cushion, and is likely The white dog approaches the cushion and lays down on it, indicating that it is comfortable and relaxed. After going to the cushion, the white dog lies down on top of it, indicating that it is comfortable and relaxed. After going to the cushion, the white dog lays down on the floor."
+    },
+    {
+      "video_id": "8132842161",
+      "question": "why did the man in white hold tightly to the boy in white",
+      "options": {
+        "A": "forcing boy to look straight",
+        "B": "dancing with boy",
+        "C": "posing for camera",
+        "D": "prevent falling off",
+        "E": "boy keeps moving around"
+      },
+      "gold": "D",
+      "pred": "E",
+      "raw_output": "E",
+      "correct": false,
+      "n_frames": 32,
+      "elapsed_sec": 12.66632890701294,
+      "memory": {
+        "process_peak_rss_mb": 20192.0625,
+        "device": "cuda",
+        "gpu_peak_allocated_mb": 20062.58056640625,
+        "gpu_peak_reserved_mb": 21196.0
+      },
+      "captions": "The man in white is holding tightly to the boy in white, indicating that he is taking care of the boy and making sure he is The man in white is holding tightly to the boy in white, which may indicate that he is taking care of him or showing affection. The boy The man in white is holding tightly to the boy in white, indicating that he is taking care of the boy and making sure he is The man in white is holding the boy in white tightly, indicating that he is taking care of the boy and making sure he is comfortable The man in white is holding tightly to the boy in white, indicating that he is taking care of the boy and making sure he is The man in white is holding the boy in white tightly, indicating that he is taking care of him or providing support. The boy in white The man in white is holding tightly to the boy in white, indicating that he is taking care of the boy and making sure he is The man in white is holding tightly to the boy in white, indicating that he is taking care of the boy and making sure he is The man in white is holding the boy in white tightly, indicating that he is taking care of the boy and making sure he is comfortable The man in white is holding tightly to the boy in white, indicating that he is taking care of the boy and making sure he is The man in white is holding tightly to the boy in white, indicating that he is taking care of the boy and making sure he is Why did the man in white hold tightly to the boy in white? The man in white is holding tightly to the boy in white, indicating that Why did the man in white hold tightly to the boy in white? The man in white is holding tightly to the boy in white, indicating that The man in white is holding tightly to the boy in white, indicating that he is taking care of the boy and making sure he is The man in white is holding tightly to the boy in white, indicating that he is taking care of him and making sure he is comfortable The man in white is holding tightly to the boy in white, indicating that he is taking care of the boy and making sure he is The man in white is holding tightly to the boy in white, indicating that he is taking care of the boy and making sure he is The man in white is holding the boy in white tightly, indicating that he is interested in the boy's interest or attention. The boy The man in white is holding tightly to the boy in white, indicating that he is taking care of the boy and making sure he is The man in white is holding tightly to the boy in white, indicating that they are having a good time together at the park. The boy Why did the man in white hold tightly to the boy in white? The man in white is holding tightly to the boy in white, indicating that The man in white is holding tightly to the boy in white, indicating that they are having a good time together. The boy in white is The man in white is holding tightly to the boy in white, indicating that they are having a good time together at the theme park. The The man in white is holding tightly to the boy in white, indicating that they are having a good time at the theme park. The boy The man in white is holding the boy in white tightly, indicating that he is taking care of the boy and making sure he is comfortable The man in white is holding tightly to the boy in white, indicating that he is taking care of the boy and making sure he is The man in white is holding tightly to the boy in white, indicating that he is taking care of the boy and making sure he is The man in white is holding tightly to the boy in white, indicating that he is taking care of the boy and making sure he is The man in white is holding tightly to the boy in white, indicating that he is taking care of the boy and making sure he is The man in white is holding tightly to the boy in white, indicating that he is taking care of him and making sure he is comfortable The man in white is holding tightly to the boy in white, indicating that he is taking care of the boy and making sure he is The man in white is holding tightly to the boy in white, indicating that he is taking care of the boy and making sure he is"
+    },
+    {
+      "video_id": "4260763967",
+      "question": "why is the boy in yellow reaching out to things on the green mat",
+      "options": {
+        "A": "team uniform",
+        "B": "watch something in the pool",
+        "C": "assembling parts to build toy",
+        "D": "keep his belonging",
+        "E": "grab remote control"
+      },
+      "gold": "C",
+      "pred": "C",
+      "raw_output": "C",
+      "correct": true,
+      "n_frames": 32,
+      "elapsed_sec": 12.769432783126831,
+      "memory": {
+        "process_peak_rss_mb": 20192.0625,
+        "device": "cuda",
+        "gpu_peak_allocated_mb": 20063.40771484375,
+        "gpu_peak_reserved_mb": 21196.0
+      },
+      "captions": "The boy in yellow is reaching out to objects on the green mat, which may indicate that he is engaged in a playful activity. He may The boy in yellow is reaching out to objects on the green mat, which may indicate that he is engaged in a playful activity. He is The boy in yellow is reaching out to the things on the green mat, which may indicate that he is playing with toys or engaging in other activities The boy in yellow is reaching out to the things on the green mat, which suggests that he is engaged in a playful activity. He may The boy in yellow is reaching out to things on the green mat, which may indicate that he is engaged in a playful activity. He may The boy in yellow is reaching out to objects on the green mat, which may indicate that he is engaged in a playful activity. He may The boy in yellow is reaching out to objects on the green mat, which may indicate that he is engaged in some sort of play activity. He The boy in yellow is reaching out to objects on the green mat, which may indicate that he is engaged in a playful activity. He may The boy in yellow is reaching out to objects on the green mat, which may indicate that he is engaged in a playful activity. He may The boy in yellow is reaching out to objects on the green mat, which may indicate that he is engaged in some sort of play activity. He The boy in yellow is reaching out to objects on the green mat, which may indicate that he is engaged in some sort of play activity. He The boy in yellow is reaching out to objects on the green mat, which may indicate that he is engaged in a playful activity. He may The boy in yellow is reaching out to objects on the green mat, which may indicate that he is engaged in a playful activity. He is The boy in yellow is reaching out to objects on the green mat, which may indicate that he is engaged in a playful activity. He may The boy in yellow is reaching out to objects on the green mat, which may indicate that he is engaged in a playful activity. He may The boy in yellow is reaching out to objects on the green mat, which may indicate that he is engaged in a playful activity. He may The boy in yellow is reaching out to objects on the green mat, which may indicate that he is playing with toys or engaging in other activities. The boy in yellow is reaching out to objects on the green mat, which may indicate that he is engaged in a playful activity. He is The boy in yellow is reaching out to objects on the green mat, which may indicate that he is engaged in some sort of play activity. He The boy in yellow is reaching out to objects on the green mat, which may indicate that he is engaged in some sort of play activity. He The boy in yellow is reaching out to objects on the green mat, which may indicate that he is engaged in some sort of play activity. He The boy in yellow is reaching out to objects on the green mat, which may indicate that he is playing with toys or engaging in other activities. The boy in yellow is reaching out to objects on the green mat, which may indicate that he is engaged in a playful activity. He may The boy in yellow is reaching out to things on the green mat, which may indicate that he is playing with toys or engaging in other activities. The boy in yellow is reaching out to objects on the green mat, which may indicate that he is playing with toys or engaging in other activities. The boy in yellow is reaching out to the toys on the green mat, which may indicate that he is engaged in a playful activity. He The boy in yellow is reaching out to objects on the green mat, which may indicate that he is playing with toys or engaging in some other activity The boy in yellow is reaching out to objects on the green mat, which may indicate that he is playing with toys or engaging in other activities. The boy in yellow is reaching out to objects on the green mat, which may indicate that he is engaged in a playful activity. He is The boy in yellow is reaching out to objects on the green mat, which may indicate that he is playing with toys or engaging in other activities. The boy in yellow is reaching out to objects on the green mat, which may indicate that he is interested in playing with the toys on the mat The boy in yellow is reaching out to the toys on the green mat, which may indicate that he is interested in playing with them. He may"
+    },
+    {
+      "video_id": "3462517143",
+      "question": "why is the white dog walking around the green container",
+      "options": {
+        "A": "chasing",
+        "B": "get drink",
+        "C": "fashion for dogs",
+        "D": "leading the way",
+        "E": "excited"
+      },
+      "gold": "B",
+      "pred": "B",
+      "raw_output": "B",
+      "correct": true,
+      "n_frames": 32,
+      "elapsed_sec": 12.787411451339722,
+      "memory": {
+        "process_peak_rss_mb": 20192.0625,
+        "device": "cuda",
+        "gpu_peak_allocated_mb": 20052.69873046875,
+        "gpu_peak_reserved_mb": 21196.0
+      },
+      "captions": "The white dog is walking around the green container, which may indicate that he is interested in playing with the water inside. The green container may also The white dog is walking around the green container, which may indicate that he is interested in playing with the water or engaging in playful activities. The The white dog is walking around the green container in the backyard, which may indicate that he is interested in playing with the water or exploring the yard The white dog is walking around the green container, which may indicate that he wants to play with it or explore it. The green container may also The white dog is walking around the green container, which may indicate that he is looking for something to drink or play with. The green container may The white dog is walking around the green container, which may indicate that he is interested in playing with the water or engaging in some playful activity. The white dog is walking around the green container, which may indicate that he is enjoying his time in the water. The green container may also be The white dog is walking around the green container, which appears to be a swimming pool. The dog may be enjoying the water or playing with it The white dog is walking around the green container, which appears to be filled with water. It may be a sign that the dog is enjoying the The white dog is walking around the green container, which may indicate that it is enjoying a refreshing swim in the yard. The green container may also The white dog is walking around the green container, which appears to be filled with water. The dog may be drinking from the container, or it may The white dog is walking around the green container, which appears to be filled with water. It may be a sign that the dog is enjoying the The white dog is walking around the green container, which appears to be filled with water. It may be a sign that the dog is thirsty The white dog is walking around the green container, which appears to be a swimming pool or a bath tub. The dog may be enjoying the The white dog is walking around the green container, which appears to be filled with water. It may be a sign that the dog is enjoying the The white dog is walking around the green container in the backyard, which may indicate that he is enjoying his time in the water. The brown dog The white dog is walking around the green container in the backyard, which may indicate that he is looking for something to play with or explore. The The white dog is walking around the green container in the backyard, possibly looking for something to eat or drink. It may also be curious about the The white dog is walking around the green container in the backyard, which may indicate that he is looking for something to play with or explore. The The white dog is walking around the green container in the backyard, which may indicate that he is looking for something to drink or play with. The The white dog is walking around the green container in the backyard, which may indicate that he is interested in playing with the water or exploring the yard The white dog is walking around the green container, which may indicate that he is looking for something to drink or play with. He may also be The white dog is walking around the green container, which may indicate that he is looking for something to drink or play with. The green container may The white dog is walking around the green container, which appears to be a water source for the dog. The dog may be drinking from the container The white dog is walking around the green container, which appears to be a water source for the dog. The dog may be drinking from the container The white dog is walking around the green container, which appears to be a water source for the dog. It may be a place where the Why is the white dog walking around the green container? The white dog is walking around the green container, which appears to be a green water container The white dog is walking around the green container, which appears to be a water container for the dog to drink from. The green container may be The white dog is walking around the green container, which may indicate that he is interested in playing with the water or engaging in some playful activity. The white dog is walking around the green container in the backyard, which may indicate that he is looking for something to play with. The green container Why is the white dog walking around the green container? The white dog is walking around the green container in the backyard, which may indicate that it is The white dog is walking around the green container in the backyard, which may indicate that he is looking for something to play with. The green container"
+    },
+    {
+      "video_id": "3441428429",
+      "question": "what does the female skater do after the male skater puts her back down on the ice",
+      "options": {
+        "A": "put hand in mouth",
+        "B": "continue skating",
+        "C": "jump",
+        "D": "move her arms up and down",
+        "E": "laugh and run forward"
+      },
+      "gold": "B",
+      "pred": "B",
+      "raw_output": "B",
+      "correct": true,
+      "n_frames": 32,
+      "elapsed_sec": 12.901530504226685,
+      "memory": {
+        "process_peak_rss_mb": 20192.0625,
+        "device": "cuda",
+        "gpu_peak_allocated_mb": 20065.89794921875,
+        "gpu_peak_reserved_mb": 21196.0
+      },
+      "captions": "After the male skater puts her back down on the ice, the female skater performs a series of spins and jumps, After the male skater puts her back down on the ice, the female skater begins to dance with him. She moves around the ice After the male skater puts her back down on the ice, the female skater performs a series of jumps and spins, After the male skater puts her back down on the ice, the female skater performs a series of jumps and spins, The female skater puts her back down on the ice after the male skater puts her back down on the ice. The female skater After the male skater puts her back down on the ice, the female skater does a handstand in front of him. She continues After the male skater puts her back down on the ice, the female skater performs a series of jumps and spins, After the male skater puts her back down on the ice, the female skater performs a series of spins and jumps, After the male skater puts her back down on the ice, the female skater performs a series of jumps and spins, After the male skater puts her back down on the ice, the female skater performs a series of jumps and spins, After the male skater puts her back down on the ice, the female skater performs a series of spins and jumps, After the male skater puts her back down on the ice, the female skater continues to skate around the rink. She appears to be The female skater does a flip after the male skater puts her back down on the ice. The female skater appears to be performing After the male skater puts her back down on the ice, the female skater performs a series of jumps and spins, The female skater puts her back down on the ice after the male skater puts her back down on the ice. The two skater The female skater puts her back down on the ice after the male skater puts her back down on the ice. The female skater After the male skater puts her back down on the ice, the female skater performs a series of jumps and spins, After the male skater puts her back down on the ice, the female skater performs a series of spins and jumps, After the male skater puts her back down on the ice, the female skater performs a handstand in front of him. She After the male skater puts her back down on the ice, the female skater performs a series of jumps and spins, The female skater puts her back down on the ice after the male skater puts her back down on the ice. After the male skate After the male skater puts her back down on the ice, the female skater performs a series of jumps and spins, After the male skater puts her back down on the ice, the female skater performs a series of jumps and spins, The female skater puts her back down on the ice after the male skater puts her back down on the ice. The female skater After the male skater puts her back down on the ice, the female skater performs a series of jumps and spins before After the male skater puts her back down on the ice, the female skater performs a series of jumps and spins, The female skater puts her back down on the ice after the male skater puts her back down on the ice. The female skater The female skater puts her back down on the ice after the male skater puts her back down on the ice. The female skater After the male skater puts her back down on the ice, the female skater performs a series of jumps and spins, After the male skater puts her back down on the ice, the female skater performs a series of jumps and spins before After the male skater puts her back down on the ice, the female skater continues to hold onto the male skater's hand, After the male skater puts her back down on the ice, the female skater performs a series of jumps and spins before"
+    },
+    {
+      "video_id": "6356067859",
+      "question": "what does the girl in white do after bending down in the middle",
+      "options": {
+        "A": "grab her",
+        "B": "feed horse with grass",
+        "C": "run towards the camera",
+        "D": "umbrella",
+        "E": "put her arms up"
+      },
+      "gold": "B",
+      "pred": "B",
+      "raw_output": "B",
+      "correct": true,
+      "n_frames": 32,
+      "elapsed_sec": 12.728679895401001,
+      "memory": {
+        "process_peak_rss_mb": 20192.0625,
+        "device": "cuda",
+        "gpu_peak_allocated_mb": 19896.84326171875,
+        "gpu_peak_reserved_mb": 21196.0
+      },
+      "captions": "The girl in white bends down in the middle of the field and pet the small horse with her hands. The girl in white bends down in the middle of the image and grabs the pony's tail with her gloved hand. She continues to The girl in white bends down in the middle of the field and grabs the reins of a cow. She holds the reins up The girl in white bends down in the middle of the field and puts her hand on the cow's head. After putting her hand on The girl in white bends down in the middle of the grass and petting the small horse. The girl in white bends down in the middle of the scene and petting the small horse. The girl in white bends down in the middle of the scene and feeds the horse some grass. The girl in white bends down in the middle of the scene and begins petting the horse with her hands. After a few moments, the The girl in white bends down in the middle of the scene and begins petting the horse. She continues petting the horse, interacting with The girl in white bends down in the middle of the scene and begins petting the small horse. The girl in white bends down in the middle of the scene and feeds the horse some grass. The girl in white bends down in the middle of the image and begins petting the small horse. The girl in white bends down in the middle of the image and begins petting the small horse. After bending down, the girl in white The girl in white bends down in the middle of the image and begins petting the small brown horse. petting the horse The girl in white bends down in the middle of the field and pecks the pony with her hand. petting the horse The girl in white bends down in the middle of the field and begins petting the small brown horse. The girl in white bends down in the middle of the grass and pecks the pony with her finger. petting the horse petting the pony The girl in white bends down in the middle of the grass and pets the small horse with her hand. The girl in white bends down in the middle of the grass and pecks the pony with her hand. The girl in white bends down in the middle of the field and pecks the small horse with her finger. The girl in white bends down in the middle of the grass and petting a small brown horse. The girl in white bends down in the middle of the grass and petting a small horse. The girl in white bends down in the middle of the grass and pet the small horse. The girl in white bends down in the middle of the grass and pets the small brown horse. The girl in white bends down in the middle of the grass and begins petting the small brown horse. petting the horse The girl in white bends down in the middle of the field and petting the small horse. After bending down in the middle of the field The girl in white bends down in the middle of the grass and petting the small horse. After bending down, she continues petting the"
+    },
+    {
+      "video_id": "5026660202",
+      "question": "why are there high chairs on the stage",
+      "options": {
+        "A": "to place the microphones",
+        "B": "for guitarists to sit comfortably",
+        "C": "for audience to sit",
+        "D": "to act as displays",
+        "E": "to take up stage spaces"
+      },
+      "gold": "B",
+      "pred": "C",
+      "raw_output": "C",
+      "correct": false,
+      "n_frames": 32,
+      "elapsed_sec": 12.90601110458374,
+      "memory": {
+        "process_peak_rss_mb": 20192.0625,
+        "device": "cuda",
+        "gpu_peak_allocated_mb": 20061.751953125,
+        "gpu_peak_reserved_mb": 21196.0
+      },
+      "captions": "Why are there high chairs on the stage? The high chairs are placed on the stage to provide a comfortable seating area for the audience and musicians, Why are there high chairs on the stage? There are high chairs on the stage in the image, suggesting that the performers are performing in a concert Why are there high chairs on the stage? The high chairs are placed on the stage to provide a comfortable seating area for the concertgoers, Why are there high chairs on the stage? The high chairs are placed on the stage to provide a comfortable seating area for the audience. There are Why are there high chairs on the stage? The high chairs are placed on the stage to provide a comfortable seating area for the audience. There are Why are there high chairs on the stage? There are high chairs on the stage in the image, suggesting that a group of musicians are performing on Why are there high chairs on the stage? The high chairs on the stage are likely used for audience seating during a concert, providing a comfortable Why are there high chairs on the stage? The high chairs are placed on the stage to provide a comfortable seating area for the audience, which is Why are there high chairs on the stage? There are high chairs on the stage in the image, indicating that the performers are sitting down to perform Why are there high chairs on the stage? There are high chairs on the stage in the image, suggesting that the band is performing in a concert Why are there high chairs on the stage? There are high chairs on the stage in the image, suggesting that a concert is taking place. The Why are there high chairs on the stage? There are high chairs on the stage in the image, suggesting that a concert is taking place. The Why are there high chairs on the stage? The high chairs are placed on the stage to provide a comfortable seating area for the audience. There are Why are there high chairs on the stage? There are high chairs on the stage in the image, indicating that the performers are sitting down to perform Why are there high chairs on the stage? There are high chairs on the stage in the image, suggesting that the performers are performing in a concert Why are there high chairs on the stage? There are high chairs on the stage in the image, indicating that the performers are sitting down to perform Why are there high chairs on the stage? There are high chairs on the stage in the image, suggesting that the band is performing in a concert Why are there high chairs on the stage? There are high chairs on the stage in the image, indicating that the performers are sitting down to perform Why are there high chairs on the stage? The high chairs are placed on the stage to provide a comfortable seating area for the concertgoers, Why are there high chairs on the stage? There are high chairs on the stage in the image, suggesting that the performers are performing in a concert Why are there high chairs on the stage? There are high chairs on the stage in the image, suggesting that the band is performing in a concert Why are there high chairs on the stage? There are high chairs on the stage in the image, indicating that the performers are sitting down to perform Why are there high chairs on the stage? There are high chairs on the stage in the image, suggesting that a concert is taking place. The Why are there high chairs on the stage? There are high chairs on the stage in the image, suggesting that a concert is taking place. The Why are there high chairs on the stage? There are high chairs on the stage in the image, suggesting that a concert is taking place. The Why are there high chairs on the stage? The high chairs are placed on the stage to provide a comfortable seating area for the audience. There are Why are there high chairs on the stage? The high chairs are placed on the stage to provide a comfortable seating area for the audience. There are Why are there high chairs on the stage? There are high chairs on the stage in the image, indicating that the band is performing in a There are high chairs on the stage in the image, indicating that the performers are sitting down to play their instruments. The high chairs could be used Why are there high chairs on the stage? There are high chairs on the stage in the image, suggesting that a concert is taking place. The Why are there high chairs on the stage? There are high chairs on the stage in the image, suggesting that a concert is taking place. The Why are there high chairs on the stage? There are high chairs on the stage in the image, suggesting that the performers are performing in a concert"
+    },
+    {
+      "video_id": "9873067604",
+      "question": "why did the boy in white sway his head around",
+      "options": {
+        "A": "he is looking through it",
+        "B": "see where the ball is falling",
+        "C": "talking",
+        "D": "acting",
+        "E": "moving with rhythm"
+      },
+      "gold": "C",
+      "pred": "E",
+      "raw_output": "E",
+      "correct": false,
+      "n_frames": 32,
+      "elapsed_sec": 12.760775327682495,
+      "memory": {
+        "process_peak_rss_mb": 20192.0625,
+        "device": "cuda",
+        "gpu_peak_allocated_mb": 20058.23046875,
+        "gpu_peak_reserved_mb": 21196.0
+      },
+      "captions": "The boy in white swayed his head around as he sat in the back seat of the car, which suggests that The boy in white swayed his head around as he was sitting in the back seat of the car, which suggests that he The boy in white swayed his head around as he looked at the camera, which may indicate that he was enjoying the view The boy in white swayed his head around because he was enjoying the view from the back seat of the car. He may be The boy in white swayed his head around as he was sitting in the back seat of the car, which suggests that he The boy in white swayed his head around because he wanted to play with the other children in the back seat of the car. The boy in white swayed his head around as he was sitting in the back seat of the car, which suggests that he The boy in white swayed his head around as he was sitting in the back seat of the car, which suggests that he The boy in white swayed his head around as he was sitting in the back seat of the car, which suggests that he The boy in white swayed his head around as he was sitting in the back seat of the car, which suggests that he The boy in white swayed his head around as he was sitting in the back seat of the car, which suggests that he The boy in white swayed his head around as he smiled at the camera, indicating that he was enjoying the moment The boy in white swayed his head around as he looked at the camera, which may indicate that he was interested in the The boy in white swayed his head around because he was laughing at something, possibly a joke or a funny moment. The boy in white swayed his head around as he looked at the phone, which may indicate that he is interested in the The boy in white swayed his head around as he was sitting in the back seat of the car, which suggests that he The boy in white swayed his head around as he was sitting in the back seat of the car, which suggests that he The boy in white swayed his head around as he was sitting in the back seat of the car, which suggests that he The boy in white swayed his head around as he was sitting in the back seat of the car, which suggests that he The boy in white is swaying his head around as he sits in the back seat of the car, which may indicate that The boy in white swayed his head around as he was sitting in the back seat of the car, which suggests that he The boy in white swayed his head around as he was sitting in the back seat of the car, which suggests that he The boy in white swayed his head around as he was sitting in the back seat of the car, which suggests that he The boy in white swayed his head around as he was talking to the girl in black, which could be a sign of The boy in white swayed his head around as he was sitting in the back seat of the car, which may indicate that The boy in white swayed his head around as he smiled at the camera, indicating that he was enjoying the moment The boy in white swayed his head around as he was sitting in the back seat of the car, which suggests that he The boy in white swayed his head around as he was sitting in the back seat of the car, which suggests that he The boy in white swayed his head around because he was laughing, which may indicate that he was having a good time The boy in white swayed his head around as he was sitting in the back seat of the car, possibly due to laughter or The boy in white swayed his head around as he was sitting in the back seat of the car, which suggests that he The boy in white swayed his head around as he was sitting in the back seat of the car, which suggests that he"
+    },
+    {
+      "video_id": "5735711594",
+      "question": "how did the white dog respond to the brown dog when it attacks from its tail",
+      "options": {
+        "A": "follow it",
+        "B": "hopped away",
+        "C": "wagging",
+        "D": "ready to run away",
+        "E": "move his head"
+      },
+      "gold": "B",
+      "pred": "D",
+      "raw_output": "D",
+      "correct": false,
+      "n_frames": 32,
+      "elapsed_sec": 12.634001731872559,
+      "memory": {
+        "process_peak_rss_mb": 20192.0625,
+        "device": "cuda",
+        "gpu_peak_allocated_mb": 20059.27490234375,
+        "gpu_peak_reserved_mb": 21196.0
+      },
+      "captions": "The brown dog attacks the white dog from its tail, and the white dog responds by biting the brown dog's tail. The white dog The brown dog attacks the white dog from its tail, and the white dog responds by attacking back. The white dog appears to be fright The brown dog attacks the white dog from its tail, and the white dog responds by attacking back. The white dog tries to protect itself from The brown dog attacks the white dog from its tail, causing the white dog to run away. The white dog then responds with a playful The brown dog attacks the white dog from its tail, and the white dog responds by biting the brown dog's tail. The white dog The brown dog attacks the white dog from its tail, and the white dog responds with a playful bite. The two dogs are engaged in The brown dog attacks the white dog from its tail, causing the white dog to run away. The white dog then chases the brown dog and The brown dog attacks the white dog from its tail, causing the white dog to run away. The white dog then chases after the brown dog The brown dog attacks the white dog from its tail, causing the white dog to run away. The white dog then chases after the brown dog The brown dog attacks the white dog from its tail, and the white dog responds by biting the brown dog's tail. The white dog The brown dog attacks the white dog from its tail, causing the white dog to run away. The white dog then responds with a playful The brown dog attacks the white dog from its tail, causing the white dog to run away. The white dog then responds with a playful The brown dog attacks the white dog from its tail, causing the white dog to run away. The white dog then chases after the brown dog The brown dog attacks the white dog from its tail, and the white dog responds by biting the brown dog's tail. The white dog The brown dog attacks the white dog from its tail, causing the white dog to run away from the brown dog. The white dog appears to be The brown dog attacks the white dog from its tail, and the white dog responds by biting the brown dog's tail. The white dog The brown dog attacks the white dog from its tail, and the white dog responds by biting the brown dog's tail. The white dog The brown dog attacks the white dog from its tail, causing the white dog to run away. The white dog then chases after the brown dog The brown dog attacks the white dog from its tail, causing the white dog to run away from the brown dog. The white dog appears to be The brown dog attacks the white dog from its tail, causing the white dog to run away. The white dog appears to be frightened The brown dog attacks the white dog from its tail, causing the white dog to growl and run away. The white dog appears to be scared The brown dog attacks the white dog from its tail, causing the white dog to run away. The white dog then chases the brown dog away The brown dog attacks the white dog from its tail, and the white dog responds with a playful bite. The two dogs are playing on the The brown dog attacks the white dog from its tail, and the white dog responds with a playful bite. The two dogs are engaged in The brown dog attacks the white dog from its tail, and the white dog responds by attacking back. The white dog appears to be repelled The brown dog attacks the white dog from its tail, and the white dog responds by attacking back. The white dog tries to protect itself from The brown dog attacks the white dog from its tail, and the white dog responds with a playful bite. The two dogs are engaging in playful The brown dog attacks the white dog from its tail, and the white dog responds by attacking back. The white dog appears to be a bit The brown dog attacks the white dog from its tail, and the white dog responds by biting the brown dog's tail. The white dog The brown dog attacks the white dog from its tail, and the white dog responds by attacking back. The white dog tries to protect itself from The brown dog attacks the white dog from its tail, and the white dog responds by attacking back. The white dog appears to be a bit The brown dog attacks the white dog from its tail, and the white dog responds by jumping up and attacking back. The white dog appears to be"
+    },
+    {
+      "video_id": "9088819598",
+      "question": "why does the baby keep the ball near his mouth in the beginning",
+      "options": {
+        "A": "take a photo",
+        "B": "lick it",
+        "C": "smelling the ball",
+        "D": "blow it away",
+        "E": "kiss it"
+      },
+      "gold": "B",
+      "pred": "B",
+      "raw_output": "B",
+      "correct": true,
+      "n_frames": 32,
+      "elapsed_sec": 12.762870788574219,
+      "memory": {
+        "process_peak_rss_mb": 20192.0625,
+        "device": "cuda",
+        "gpu_peak_allocated_mb": 20059.27490234375,
+        "gpu_peak_reserved_mb": 21196.0
+      },
+      "captions": "The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in chewing on it. He may The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in chewing on it. He may The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in chewing on it. He may The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in chewing on it. He may The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in chewing on it. He may The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in chewing on it. He may The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in chewing on it. He may The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in chewing on it. He may The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in chewing on it. He may The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in chewing on it. He may The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in playing with it. He may be The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in playing with it. He may be The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in playing with it. He may be The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in playing with it. He may be The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in chewing on it. He may The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in playing with it. He may be The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in playing with it. He may be The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in playing with it. He may be The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in playing with it. He may be The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in playing with it. He may be The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in playing with it. He may be The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in chewing on it. He may The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in playing with it. He may be The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in playing with it. He may be The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in chewing on it. He may The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in playing with it. He may be The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in playing with it. He may be The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in playing with it. He may be The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in playing with it. He may be The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in playing with it. He may be The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in playing with it. He may be The baby keeps the ball near his mouth in the beginning of the image, indicating that he is interested in playing with it. He may be"
+    },
+    {
+      "video_id": "5296635780",
+      "question": "what does the man do after the lady appear to punch him and smiles",
+      "options": {
+        "A": "look at him",
+        "B": "touch their chests",
+        "C": "kick him",
+        "D": "lean forward",
+        "E": "sit back properly"
+      },
+      "gold": "D",
+      "pred": "D",
+      "raw_output": "D",
+      "correct": true,
+      "n_frames": 32,
+      "elapsed_sec": 12.65964937210083,
+      "memory": {
+        "process_peak_rss_mb": 20192.0625,
+        "device": "cuda",
+        "gpu_peak_allocated_mb": 20060.09912109375,
+        "gpu_peak_reserved_mb": 21196.0
+      },
+      "captions": "After the lady appears to punch him in the face, the man smiles and gives her a kiss on the cheek. The scene shows a After the lady appears to punch him in the face, the man smiles and gives her a kiss on the cheek. The scene shows a The man in the image appears to be smiling after the lady appears to punch him, indicating that he is enjoying the moment with his bride. The man in the image appears to be smiling after the lady appears to punch him, indicating that he is enjoying the moment with his bride. The man in the image appears to be smiling after the lady appears to punch him, indicating that he is enjoying the moment with his bride. The man in the image appears to be smiling after the lady appears to punch him, indicating that he is enjoying the moment with his bride. The man in the image appears to be smiling after the lady appears to punch him in the face, indicating that he is enjoying the moment. After the lady appears to punch him in the face, the man smiles and gives her a kiss on the cheek. The scene shows a After the lady appears to punch him in the face, the man smiles and eats the bride's wedding cake with gusto. The The man in the image appears to be smiling after the lady appears to punch him, indicating that he is enjoying the moment with his bride. The man in the image appears to be smiling after the lady appears to punch him, indicating that he is enjoying the moment with his bride. The man in the image appears to be smiling after the lady appears to punch him, indicating that he is enjoying the moment with his bride. The man in the image appears to be smiling after the lady appears to punch him, indicating that they are having a good time together. The After the lady appears to punch him in the face, the man smiles and kisses his wife's face. The scene shows a After the lady appears to punch him in the face, the man smiles and gives her a kiss on the cheek. The scene shows a The man smiles after the lady appears to punch him in the face, indicating that he is enjoying the moment with the bride. The man After the lady appears to punch him in the face, the man smiles at her and continues to talk to her. The man is wearing a The man in the image appears to be smiling after the lady appears to punch him, indicating that he is enjoying the moment with his bride. After the lady appears to punch him in the face, the man smiles and puts his hand on his face. The bride is holding a bouquet The man in the image appears to be smiling after the lady appears to punch him, indicating that they are having a good time together. The The man smiles after the lady appears to punch him in the image, indicating that he and the bride are having a good time. The man in the image appears to be smiling after the lady appears to punch him, indicating that he is enjoying the moment with his bride. After the lady appears to punch him in the face, the man smiles and laughs, indicating that he is enjoying the moment. The The man in the image appears to be smiling after the lady appears to punch him, indicating that he is enjoying the moment with his bride. After the lady appears to punch the man in the image, the man smiles and continues to talk to the bride. The bride is wearing a The man in the image appears to be smiling after the lady appears to punch him, indicating that he is enjoying the moment with his bride. The man in the image appears to be smiling after the lady appears to punch him, indicating that he is enjoying the moment with his bride. After the lady appears to punch the man in the image, the man smiles and continues to talk to her. The man is wearing a suit The man in the image appears to be smiling after the lady appears to punch him, indicating that he is enjoying the moment with his bride. The man in the image appears to be smiling after the lady appears to punch him, indicating that he is enjoying the moment with his bride. After the lady appears to punch him in the face, the man smiles and nods his head in agreement. The man is wearing a The man in the image appears to be smiling after the lady appears to punch him in the face, indicating that he is enjoying the moment."
+    },
+    {
+      "video_id": "2614918961",
+      "question": "why does the baby turn around near the end of the video",
+      "options": {
+        "A": "yawning",
+        "B": "sits down to play",
+        "C": "to see the toy",
+        "D": "move towards toy",
+        "E": "curious"
+      },
+      "gold": "B",
+      "pred": "E",
+      "raw_output": "E",
+      "correct": false,
+      "n_frames": 32,
+      "elapsed_sec": 12.727228164672852,
+      "memory": {
+        "process_peak_rss_mb": 20192.0625,
+        "device": "cuda",
+        "gpu_peak_allocated_mb": 20060.09912109375,
+        "gpu_peak_reserved_mb": 21196.0
+      },
+      "captions": "Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is The baby turns around near the end of the video, indicating that he is curious about the object in front of him. He appears to be The baby turns around near the end of the video, indicating that he or she is interested in the red ball, which may be a The baby turns around near the end of the video, indicating that he or she is interested in the objects on the table. The baby is Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is The baby turns around near the end of the video, indicating that he is interested in the toys on the table. He may be curious about Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is The baby turns around near the end of the video, indicating that he is curious about the object he is holding in his hands. He The baby turns around near the end of the video, indicating that he is interested in the toys on the table. He may be curious about Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is The baby turns around near the end of the video, indicating that he is interested in the toy and wants to play with it. The The baby turns around near the end of the video, indicating that he is interested in the toys on the table. He may be curious about Why does the baby turn around near the end of the video? The baby turns around near the end of the video, indicating that he is The baby turns around near the end of the video, indicating that he is curious about the object in front of him. He may be curious"
+    },
+    {
+      "video_id": "6201488511",
+      "question": "why did the lady put her hands over her eyes in the middle of the video",
+      "options": {
+        "A": "posing in the camera",
+        "B": "adjust her hair",
+        "C": "protection from sun",
+        "D": "to wipe her eyes",
+        "E": "cue woman to talk"
+      },
+      "gold": "C",
+      "pred": "C",
+      "raw_output": "C",
+      "correct": true,
+      "n_frames": 32,
+      "elapsed_sec": 12.976939678192139,
+      "memory": {
+        "process_peak_rss_mb": 20192.0625,
+        "device": "cuda",
+        "gpu_peak_allocated_mb": 20065.89794921875,
+        "gpu_peak_reserved_mb": 21196.0
+      },
+      "captions": "The lady put her hands over her eyes in the middle of the video, indicating that she is confused or upset about something. She may have been The lady put her hands over her eyes in the middle of the video, indicating that she was not happy with the outcome of the game. She The lady put her hands over her eyes in the middle of the video, indicating that she is confused or disoriented. She may be looking at The lady put her hands over her eyes in the middle of the video, indicating that she was trying to protect her eyes from the sun. The The lady put her hands over her eyes in the middle of the video, indicating that she was trying to protect her eyes from the sun. The The lady put her hands over her eyes in the middle of the video, indicating that she is experiencing some sort of vision impairment. She may be The lady put her hands over her eyes in the middle of the video, indicating that she is upset or confused. She may be experiencing a The lady put her hands over her eyes in the middle of the video, indicating that she was laughing or having a good time. She may The lady put her hands over her eyes in the middle of the video, indicating that she is upset or confused. She may be experiencing a The lady put her hands over her eyes in the middle of the video, indicating that she is looking away from the camera. She may have been The lady put her hands over her eyes in the middle of the video, indicating that she was looking up at the sky. She may have been The lady put her hands over her eyes in the middle of the video, indicating that she was trying to protect her eyes from the sun. This The lady's hands are placed over her eyes in the middle of the video, indicating that she is covering her eyes to protect her eyes from The lady put her hands over her eyes in the middle of the video, indicating that she was trying to protect her eyes from the sun. The The lady put her hands over her eyes in the middle of the video, indicating that she is confused or disoriented. She may be looking at The lady put her hands over her eyes in the middle of the video, indicating that she is upset or confused. She may be experiencing a The lady put her hands over her eyes in the middle of the video, indicating that she was trying to protect her eyes from the sun. This The lady put her hands over her eyes in the middle of the video, indicating that she is confused or uncertain about something. She may have been The lady put her hands over her eyes in the middle of the video, indicating that she is upset or confused. She may be experiencing a The lady put her hands over her eyes in the middle of the video, indicating that she is upset or confused. She may be experiencing a The lady put her hands over her eyes in the middle of the video, indicating that she was laughing or having a good time. She may The lady put her hands over her eyes in the middle of the video, indicating that she was trying to protect her eyes from the bright sunlight. The lady put her hands over her eyes in the middle of the video, indicating that she was trying to protect her eyes from the sun. The The lady put her hands over her eyes in the middle of the video, indicating that she is upset or confused. She may be experiencing some sort The lady is holding her hands over her eyes in the middle of the video, indicating that she is upset or frustrated with something. She may be The lady put her hands over her eyes in the middle of the video, indicating that she was trying to protect her eyes from the sun. The The lady's hands are covering her eyes in the middle of the video, indicating that she is experiencing some sort of pain or discomfort. The The lady put her hands over her eyes in the middle of the video, indicating that she was trying to protect her eyes from the sun. This The lady put her hands over her eyes in the middle of the video, indicating that she was trying to protect her eyes from the sun. The The lady put her hands over her eyes in the middle of the video, indicating that she was trying to protect her eyes from the camera. She The lady's hands are placed over her eyes in the middle of the video, suggesting that she is experiencing some sort of eye strain or discomfort. The lady's hands are placed over her eyes in the middle of the video, suggesting that she is focusing on something important, such as the"
+    },
+    {
+      "video_id": "2976913210",
+      "question": "how did the man respond when he is stuck in the dirt",
+      "options": {
+        "A": "touched his head",
+        "B": "pointing towards the jumping line",
+        "C": "kept trying",
+        "D": "prepare to swing again",
+        "E": "looking at the floor"
+      },
+      "gold": "C",
+      "pred": "C",
+      "raw_output": "C",
+      "correct": true,
+      "n_frames": 32,
+      "elapsed_sec": 12.622020959854126,
+      "memory": {
+        "process_peak_rss_mb": 20192.0625,
+        "device": "cuda",
+        "gpu_peak_allocated_mb": 20053.51708984375,
+        "gpu_peak_reserved_mb": 21196.0
+      },
+      "captions": "The man appears to have reacted quickly when he got stuck in the dirt. He was able to get out of the muddy area The man appears to have reacted quickly when he got stuck in the dirt. He was able to push his vehicle through the muddy The man appears to have gotten stuck in the dirt when he is riding his four-wheeled vehicle through a muddy area. The man appears to have gotten stuck in the dirt when he is riding his four-wheeled vehicle through a muddy area. The man appears to have reacted quickly when he got stuck in the dirt. He was able to push his vehicle through the muddy The man appears to have gotten stuck in the dirt when he is riding his atv through a muddy area. He seems to be The man appears to have gotten stuck in the dirt when he is riding his atv through a muddy area. He seems to be In the image, the man is riding an atv through a muddy area. The man appears to be struggling to get out of the dirt The man appears to have reacted quickly when he got stuck in the dirt. He was able to drive his atv through the The man appears to have reacted quickly when he got stuck in the dirt. He was able to drive his atv through the The man appears to have gotten stuck in the dirt when he is riding his four-wheeled vehicle through a muddy area. The man appears to have gotten stuck in the dirt when he is riding his four-wheeled vehicle through a muddy river. The man appears to have reacted quickly when he got stuck in the dirt. He was able to drive his atv through the The man appears to have reacted quickly when he got stuck in the dirt. He was able to drive his atv through the The man appears to have reacted quickly when he got stuck in the dirt. He was able to drive his atv through the The man appears to have gotten stuck in the dirt when he is riding his atv through a muddy area. He seems to have The man appears to have gotten stuck in the dirt when he is riding his atv through a muddy area. He seems to have The man appears to have reacted quickly when he got stuck in the dirt. He was able to drive his atv through the The man appears to have gotten stuck in the dirt when he is riding his atv through a muddy area. He seems to be The man appears to have reacted quickly when he got stuck in the dirt. He was able to drive his atv through the The man appears to have gotten stuck in the dirt when he was riding his atv through a muddy area. He seems to have The man appears to have gotten stuck in the dirt when he was riding his atv through a muddy river. He seems to have The man appears to have reacted quickly when he got stuck in the dirt. He was able to push his vehicle through the muddy The man appears to have gotten stuck in the dirt when he is riding his atv on a muddy path. The man seems to The man appears to be using his atv to navigate through the muddy terrain, as he pushes the vehicle through the water. He The man appears to have reacted quickly when he got stuck in the dirt. He was able to push his atv through the The man appears to have reacted quickly when he was stuck in the dirt. He appears to have jumped into the muddy water and The man appears to have gotten stuck in the dirt when he is riding his atv through a muddy area. He seems to be The man appears to have gotten stuck in the dirt when he is riding his atv through a muddy area. The man seems to The man appears to have gotten stuck in the dirt when he is riding his atv through a muddy area. The man seems to The man appears to have reacted quickly when he got stuck in the dirt. He was able to push his atv through the The man appears to have reacted quickly when he got stuck in the dirt. He was able to push his atv through the"
+    },
+    {
+      "video_id": "2793260225",
+      "question": "how did the lady and man on top try to keep their balance",
+      "options": {
+        "A": "hold the ropes tightly",
+        "B": "held each other",
+        "C": "walk side to side",
+        "D": "hold ski stick",
+        "E": "standing still"
+      },
+      "gold": "B",
+      "pred": "B",
+      "raw_output": "B",
+      "correct": true,
+      "n_frames": 32,
+      "elapsed_sec": 12.476678133010864,
+      "memory": {
+        "process_peak_rss_mb": 20192.0625,
+        "device": "cuda",
+        "gpu_peak_allocated_mb": 19965.55224609375,
+        "gpu_peak_reserved_mb": 21196.0
+      },
+      "captions": "The lady and man on top of the woman are trying to keep their balance in the water, while the man on the bottom tries to help them The lady and man on top tried to keep their balance by balancing on each other's shoulders, while the man on the bottom tried to How did the lady and man on top try to keep their balance in the water? The lady and man on top are trying to keep their balance while How did the lady and man on top try to keep their balance in the water? The lady and man on top of the woman are trying to keep their balance while swimming in the water. The woman is wearing a bikini How did the lady and man on top try to keep their balance in the water? How did the lady and man on top try to keep their balance in the water? How did the lady and man on top try to keep their balance in the water? How did the lady and man on top try to keep their balance in the water? The lady and man on top of the woman are trying to keep their balance while swimming in the water. They are wearing swimsuits and a How did the lady and man on top try to keep their balance in the water? The lady and man on top tried to keep their balance while balancing on the frisbee, which was floating in the water. They How did the lady and man on top try to keep their balance in the water? The lady and man on top are trying to keep their balance while swimming in the water. They are balancing on each other's shoulders, The lady and man on top of the woman are trying to keep their balance while swimming in the water. The woman is wearing a bikini How did the lady and man on top try to keep their balance in the water? The lady and man on top are balancing on top of How did the lady and man on top try to keep their balance in the water? The lady and man on top are balancing on top of The lady and man on top of the woman are trying to keep their balance in the water. They are balancing on top of each other, The lady and man on top of the man are trying to keep their balance in the water by balancing on each other's shoulders. They The lady and man on top of the man are trying to keep their balance while swimming in the water. They appear to be balancing on one The lady and man on top of the water appear to be struggling to keep their balance as the water splashes around them. They seem to be How did the lady and man on top try to keep their balance in the water? The lady and man on top of the water appear to be struggling How did the lady and man on top try to keep their balance in the water? The lady and man on top appear to be struggling to maintain their How did the lady and man on top try to keep their balance in the water? The lady and man on top appear to be struggling to maintain their How did the lady and man on top try to keep their balance in the water? The lady and man on top of the water appear to be struggling The lady and man on top of the water are trying to keep their balance as they play with a frisbee in the water. They The lady and man on top of the water appear to be struggling to keep their balance as they try to play with the frisbee. They The lady and man on top of the water appear to be struggling to keep their balance as they try to catch a frisbee in the The lady and man on top of the water appear to be struggling to keep their balance as they swim in the water. They may have been trying to The lady and man on top of the water appear to be struggling to keep their balance as they swim in the water. They are wearing swimsuits The lady and man on top of the water appear to be struggling to keep their balance as they try to catch a frisbee in the"
+    },
+    {
+      "video_id": "7508439506",
+      "question": "why did the boy put his hands on the baby",
+      "options": {
+        "A": "play with baby",
+        "B": "to give her food",
+        "C": "play",
+        "D": "support the baby",
+        "E": "fall and pounce on the boy"
+      },
+      "gold": "A",
+      "pred": "A",
+      "raw_output": "A",
+      "correct": true,
+      "n_frames": 32,
+      "elapsed_sec": 12.749287366867065,
+      "memory": {
+        "process_peak_rss_mb": 20192.0625,
+        "device": "cuda",
+        "gpu_peak_allocated_mb": 20059.27490234375,
+        "gpu_peak_reserved_mb": 21196.0
+      },
+      "captions": "The boy is playing with the baby on the bed, which may be a sign of affection or playfulness. The boy may also be trying to The boy put his hands on the baby because he wanted to play with the baby and make him laugh. The boy may be playing with the baby The boy put his hands on the baby because he wanted to play with the baby and make him laugh. He may have been playing with the baby The boy put his hands on the baby because he wanted to play with the baby and make him laugh. The baby is laying on a The boy put his hands on the baby because he wanted to play with the baby, which may be a sign of affection or affection. The The boy put his hands on the baby because he wanted to play with the baby, which may be a sign of affection or playful interaction. Why did the boy put his hands on the baby? The boy's hands are placed on the baby's head, indicating that he The boy put his hands on the baby because he wanted to play with the baby, which may be a form of affection or playful interaction. The boy put his hands on the baby because he wanted to play with the baby, which is likely a sign of affection or affection. The The boy put his hands on the baby because he wanted to play with the baby. He may have been playing with the baby to entertain him or The boy put his hands on the baby because he wanted to hold the baby and play with it. The boy may have been playing with the baby The boy put his hands on the baby because he wanted to play with the baby. He may have been playing with the baby to entertain him or The boy put his hands on the baby because he wanted to play with the baby, which may be a sign of affection or affection. The The boy put his hands on the baby because he wanted to play with the baby, which may be a sign of affection or playful interaction. The boy put his hands on the baby because he wanted to play with the baby, which may be a sign of affection or playful interaction. The boy put his hands on the baby because he wanted to play with the baby, which is likely a sign of affection or affection. The The boy put his hands on the baby because he wanted to hold the baby and play with it. The baby is laying on a bed The boy put his hands on the baby because he wanted to play with the baby, which is likely a form of affection or care. The The boy put his hands on the baby because he wanted to play with the baby, which may be a sign of affection or playful interaction. The boy placed his hands on the baby's fetus in order to take a closer look at the baby's foot, The boy put his hands on the baby to give him a thumbs-up gesture, which may be a sign of affection or affection. The boy put his hands on the baby because he wanted to hold the baby and play with it. The baby is laying on a bed The boy put his hands on the baby because he wanted to play with the baby, perhaps as a form of affection or playful touch. The The boy put his hands on the baby because he wanted to play with the baby and make him laugh. The boy is likely playing with the baby The boy put his hands on the baby because he wanted to play with the baby, which may be a sign of affection or playful interaction. The boy put his hands on the baby because he wanted to give the baby a thumbs up gesture, which is a common sign of The boy put his hands on the baby because he wanted to play with the baby. The baby is laying on a bed, and the The boy put his hands on the baby because he wanted to play with the baby, which may be a sign of affection or affection. The The boy put his hands on the baby because he wanted to play with the baby or take a picture of him. The baby is laying The boy put his hands on the baby because he wanted to play with the baby, which is likely a form of affection or care. The The boy put his hands on the baby because he wanted to play with the baby and make him laugh. The baby is laying on a The boy put his hands on the baby because he wanted to hold the baby and play with it. The baby is laying on a bed"
+    },
+    {
+      "video_id": "7508439506",
+      "question": "where is this video taken",
+      "options": {
+        "A": "swimming pool",
+        "B": "outdoor",
+        "C": "field",
+        "D": "desert",
+        "E": "bed room"
+      },
+      "gold": "E",
+      "pred": "E",
+      "raw_output": "E",
+      "correct": true,
+      "n_frames": 32,
+      "elapsed_sec": 12.695807933807373,
+      "memory": {
+        "process_peak_rss_mb": 20192.0625,
+        "device": "cuda",
+        "gpu_peak_allocated_mb": 20045.3544921875,
+        "gpu_peak_reserved_mb": 21250.0
+      },
+      "captions": "The image depicts a young boy playing with a baby on a bed in a living room. There are two people present in the The video is taken in a bedroom, with a baby lying on a bed and a person holding the baby. The baby is smiling The video is taken in a bedroom, with a baby lying on a bed next to a woman. The woman is holding the baby The image depicts a baby laying on a bed with a man nearby. The baby is smiling and laughing as the man interacts The image depicts a baby laying on a bed with a man nearby. The baby is smiling and laughing as the man interacts The image is taken in a living room, featuring a man and a baby laying on a bed. The man appears to be The video is taken in a living room, with a young boy sitting on the floor and smiling at the camera. There is a chair The image is taken in a living room, with a man and a child laying on the floor. The man is holding a The image depicts a man and a baby laying on a bed in a living room, possibly in a home. The The image depicts a baby laying on a bed in a living room. The baby is wearing a white shirt with a The image depicts a man and a baby laying on a bed in a living room. The baby is wearing a white The image depicts a man laying on a bed with a baby lying next to him. The baby is wearing a white shirt The image depicts a baby laying on a bed, posing for a photo or video. The baby is wearing a The image depicts a baby laying on a bed with a man nearby. The baby is wearing a white shirt with a The image depicts a baby laying on a bed with a man nearby. The baby is wearing a white shirt with a The image depicts a baby laying on a bed with a man nearby. The baby is wearing a giraffe- The image depicts a baby laying on a bed with a parent nearby. The baby is wearing a white shirt with a The image depicts a baby laying on a bed with a parent nearby. The baby is wearing a white shirt with a The video is taken in a living room, with a baby lying on a couch and a man sitting nearby. The baby is smiling The image depicts a baby laying on a bed with a man nearby. The baby is wearing a white shirt with a The image depicts a baby laying on a bed, posing for a photo or video. The baby is wearing a The image depicts a baby laying on a bed with a man nearby. The baby is wearing a white shirt with a The image depicts a baby lying on a bed with a woman in close proximity. The woman is holding the baby, while the baby The image depicts a young boy and a baby laying down on a bed. The baby is smiling and playing with the boy, The image depicts a baby laying on a bed with its hands raised in the air. The baby is playing with a toy The image depicts a baby laying on a bed with a parent nearby. The baby is smiling and posing for the camera The image depicts a baby laying on a bed, smiling and interacting with its caregiver. The baby is wearing a white shirt The image depicts a baby laying on a bed, posing for a photo or video. The baby is wearing a The image depicts a baby laying on a bed in a bedroom. The baby is wearing a white shirt with a bear The image depicts a baby laying on a bed with a parent nearby. The baby is smiling and playing with a toy The image depicts a baby laying on a bed with a parent nearby. The baby is smiling and interacting with the man, The image depicts a baby laying on a bed and smiling at the camera. The baby is wearing a white shirt with a"
+    }
+  ]
+}

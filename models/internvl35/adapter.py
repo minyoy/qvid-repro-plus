@@ -1,4 +1,4 @@
-from typing import Dict
+from typing import Dict, Optional
 
 import torch
 from PIL import Image
@@ -24,7 +24,7 @@ class InternVL35Backbone:
     def __init__(
         self,
         model_name: str = "OpenGVLab/InternVL3_5-4B",
-        device: str | None = None,
+        device: Optional[str] = None,
         max_caption_new_tokens: int = 30,
         max_answer_new_tokens: int = 8,
         max_num_tiles: int = 12,

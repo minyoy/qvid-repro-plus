@@ -1,0 +1,143 @@
+nohup: ignoring input
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/models/Salesforce/instructblip-flan-t5-xl/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/processor_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/processor_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/chat_template.json "HTTP/1.1 404 Not Found"
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+WARNING:huggingface_hub.utils._http:Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/audio_tokenizer_config.json "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/processor_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/processor_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/preprocessor_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/processor_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/processor_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/preprocessor_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/tokenizer_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/tokenizer_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/models/Salesforce/instructblip-flan-t5-xl/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/models/Salesforce/instructblip-flan-t5-xl/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/qformer_tokenizer/config.json "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/qformer_tokenizer/config.json "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/qformer_tokenizer/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/qformer_tokenizer%2Ftokenizer_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/models/Salesforce/instructblip-flan-t5-xl/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/models/Salesforce/instructblip-flan-t5-xl/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/model.safetensors "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/model.safetensors.index.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/model.safetensors.index.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/models/Salesforce/instructblip-flan-t5-xl/revision/main "HTTP/1.1 200 OK"
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]Fetching 2 files: 100%|██████████| 2/2 [00:00<00:00, 23109.11it/s]
+Loading weights:   0%|          | 0/1363 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 234/1363 [00:00<00:00, 2316.63it/s]Loading weights:  34%|███▍      | 466/1363 [00:00<00:00, 2139.05it/s]Loading weights:  65%|██████▌   | 890/1363 [00:00<00:00, 3053.75it/s]Loading weights:  91%|█████████ | 1243/1363 [00:00<00:00, 3232.87it/s]Loading weights: 100%|██████████| 1363/1363 [00:00<00:00, 3036.95it/s]
+[transformers] The tied weights mapping and config for this model specifies to tie language_model.shared.weight to language_model.lm_head.weight, but both are present in the checkpoints with different values, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning.
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/generation_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/google/flan-t5-xl/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/flan-t5-xl/7d6315df2c2fb742f0f5b556879d730926ca9001/config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/resolve-cache/models/google/flan-t5-xl/7d6315df2c2fb742f0f5b556879d730926ca9001/config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/google/flan-t5-xl/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/flan-t5-xl/7d6315df2c2fb742f0f5b556879d730926ca9001/tokenizer_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/resolve-cache/models/google/flan-t5-xl/7d6315df2c2fb742f0f5b556879d730926ca9001/tokenizer_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/models/google/flan-t5-xl/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/models/google/flan-t5-xl/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/google/flan-t5-xl/resolve/main/spiece.model "HTTP/1.1 302 Found"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/models/google/flan-t5-xl/xet-read-token/7d6315df2c2fb742f0f5b556879d730926ca9001 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/google/flan-t5-xl/resolve/main/tokenizer.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/flan-t5-xl/7d6315df2c2fb742f0f5b556879d730926ca9001/tokenizer.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/resolve-cache/models/google/flan-t5-xl/7d6315df2c2fb742f0f5b556879d730926ca9001/tokenizer.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/google/flan-t5-xl/resolve/main/added_tokens.json "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/google/flan-t5-xl/resolve/main/special_tokens_map.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/flan-t5-xl/7d6315df2c2fb742f0f5b556879d730926ca9001/special_tokens_map.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/resolve-cache/models/google/flan-t5-xl/7d6315df2c2fb742f0f5b556879d730926ca9001/special_tokens_map.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/google/flan-t5-xl/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/google/flan-t5-xl/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/flan-t5-xl/7d6315df2c2fb742f0f5b556879d730926ca9001/config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/google/flan-t5-xl/resolve/main/model.safetensors "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/google/flan-t5-xl/resolve/main/model.safetensors.index.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/flan-t5-xl/7d6315df2c2fb742f0f5b556879d730926ca9001/model.safetensors.index.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/resolve-cache/models/google/flan-t5-xl/7d6315df2c2fb742f0f5b556879d730926ca9001/model.safetensors.index.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/models/google/flan-t5-xl/revision/main "HTTP/1.1 200 OK"
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]INFO:httpx:HTTP Request: HEAD https://huggingface.co/google/flan-t5-xl/resolve/7d6315df2c2fb742f0f5b556879d730926ca9001/model-00001-of-00002.safetensors "HTTP/1.1 302 Found"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/google/flan-t5-xl/resolve/7d6315df2c2fb742f0f5b556879d730926ca9001/model-00002-of-00002.safetensors "HTTP/1.1 302 Found"
+Fetching 2 files:  50%|█████     | 1/2 [15:27<15:27, 927.32s/it]Fetching 2 files: 100%|██████████| 2/2 [15:27<00:00, 463.66s/it]
+Loading weights:   0%|          | 0/558 [00:00<?, ?it/s]Loading weights: 100%|██████████| 558/558 [00:00<00:00, 12066.89it/s]
+[transformers] The tied weights mapping and config for this model specifies to tie shared.weight to lm_head.weight, but both are present in the checkpoints with different values, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning.
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/google/flan-t5-xl/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/flan-t5-xl/7d6315df2c2fb742f0f5b556879d730926ca9001/generation_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/resolve-cache/models/google/flan-t5-xl/7d6315df2c2fb742f0f5b556879d730926ca9001/generation_config.json "HTTP/1.1 200 OK"
+
+[1/20] video_id=4010069381
+gold=A, pred=C, raw=C, correct=False
+
+[2/20] video_id=4882821564
+gold=C, pred=A, raw=A, correct=False
+
+[3/20] video_id=2435100235
+gold=C, pred=C, raw=C, correct=True
+
+[4/20] video_id=2834146886
+gold=C, pred=C, raw=C, correct=True
+
+[5/20] video_id=8132842161
+gold=D, pred=D, raw=D, correct=True
+
+[6/20] video_id=4260763967
+gold=C, pred=C, raw=C, correct=True
+
+[7/20] video_id=3462517143
+gold=B, pred=B, raw=B, correct=True
+
+[8/20] video_id=3441428429
+gold=B, pred=B, raw=B, correct=True
+
+[9/20] video_id=6356067859
+gold=B, pred=E, raw=E, correct=False
+
+[10/20] video_id=5026660202
+gold=B, pred=C, raw=C, correct=False
+
+[11/20] video_id=9873067604
+gold=C, pred=E, raw=E, correct=False
+
+[12/20] video_id=5735711594
+gold=B, pred=D, raw=D, correct=False
+
+[13/20] video_id=9088819598
+gold=B, pred=B, raw=B, correct=True
+
+[14/20] video_id=5296635780
+gold=D, pred=D, raw=D, correct=True
+
+[15/20] video_id=2614918961
+gold=B, pred=E, raw=E, correct=False
+
+[16/20] video_id=6201488511
+gold=C, pred=C, raw=C, correct=True
+
+[17/20] video_id=2976913210
+gold=C, pred=C, raw=C, correct=True
+
+[18/20] video_id=2793260225
+gold=B, pred=B, raw=B, correct=True
+
+[19/20] video_id=7508439506
+gold=A, pred=A, raw=A, correct=True
+
+[20/20] video_id=7508439506
+gold=E, pred=E, raw=E, correct=True
+
+=== Evaluation Summary ===
+Total: 20
+Correct: 13
+Accuracy: 65.00%
+Avg elapsed/sample: 3.37s
+Final memory: {'process_peak_rss_mb': 20835.640625, 'device': 'cuda', 'gpu_peak_allocated_mb': 19718.92236328125, 'gpu_peak_reserved_mb': 20386.0}
+Saved to: outputs/frames_8.json

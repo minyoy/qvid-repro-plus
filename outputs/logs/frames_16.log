@@ -1,0 +1,122 @@
+nohup: ignoring input
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/models/Salesforce/instructblip-flan-t5-xl/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/processor_config.json "HTTP/1.1 307 Temporary Redirect"
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+WARNING:huggingface_hub.utils._http:Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/processor_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/chat_template.json "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/audio_tokenizer_config.json "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/processor_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/processor_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/preprocessor_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/processor_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/processor_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/preprocessor_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/tokenizer_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/tokenizer_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/models/Salesforce/instructblip-flan-t5-xl/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/models/Salesforce/instructblip-flan-t5-xl/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/qformer_tokenizer/config.json "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/qformer_tokenizer/config.json "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/qformer_tokenizer/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/qformer_tokenizer%2Ftokenizer_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/models/Salesforce/instructblip-flan-t5-xl/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/models/Salesforce/instructblip-flan-t5-xl/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/model.safetensors "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/model.safetensors.index.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/model.safetensors.index.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/models/Salesforce/instructblip-flan-t5-xl/revision/main "HTTP/1.1 200 OK"
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]Fetching 2 files: 100%|██████████| 2/2 [00:00<00:00, 18978.75it/s]
+Loading weights:   0%|          | 0/1363 [00:00<?, ?it/s]Loading weights:   4%|▍         | 61/1363 [00:00<00:02, 514.55it/s]Loading weights:   8%|▊         | 113/1363 [00:08<01:50, 11.30it/s]Loading weights:  10%|▉         | 135/1363 [00:12<02:13,  9.20it/s]Loading weights:  11%|█         | 147/1363 [00:12<01:56, 10.39it/s]Loading weights:  30%|██▉       | 403/1363 [00:13<00:16, 56.54it/s]Loading weights:  31%|███▏      | 429/1363 [00:18<00:34, 27.18it/s]Loading weights:  41%|████      | 557/1363 [00:23<00:30, 26.39it/s]Loading weights:  47%|████▋     | 637/1363 [00:23<00:20, 35.98it/s]Loading weights:  49%|████▉     | 666/1363 [00:23<00:18, 38.21it/s]Loading weights:  50%|█████     | 688/1363 [00:24<00:17, 37.87it/s]Loading weights:  52%|█████▏    | 711/1363 [00:24<00:15, 43.02it/s]Loading weights:  53%|█████▎    | 728/1363 [00:24<00:14, 43.67it/s]Loading weights:  55%|█████▍    | 746/1363 [00:24<00:12, 49.58it/s]Loading weights:  56%|█████▌    | 760/1363 [00:25<00:12, 48.11it/s]Loading weights:  57%|█████▋    | 771/1363 [00:25<00:12, 45.65it/s]Loading weights:  57%|█████▋    | 782/1363 [00:25<00:11, 51.00it/s]Loading weights:  58%|█████▊    | 796/1363 [00:26<00:13, 42.92it/s]Loading weights:  61%|██████    | 825/1363 [00:26<00:08, 64.66it/s]Loading weights:  61%|██████▏   | 837/1363 [00:26<00:08, 59.44it/s]Loading weights:  63%|██████▎   | 856/1363 [00:27<00:10, 49.08it/s]Loading weights:  64%|██████▍   | 870/1363 [00:27<00:09, 53.24it/s]Loading weights:  65%|██████▌   | 888/1363 [00:28<00:13, 34.31it/s]Loading weights:  66%|██████▌   | 899/1363 [00:28<00:15, 30.26it/s]Loading weights:  67%|██████▋   | 911/1363 [00:29<00:16, 27.19it/s]Loading weights:  67%|██████▋   | 915/1363 [00:30<00:28, 15.93it/s]Loading weights:  67%|██████▋   | 918/1363 [00:30<00:33, 13.30it/s]Loading weights:  69%|██████▊   | 937/1363 [00:31<00:22, 18.95it/s]Loading weights:  69%|██████▉   | 940/1363 [00:31<00:25, 16.80it/s]Loading weights:  69%|██████▉   | 943/1363 [00:32<00:36, 11.47it/s]Loading weights:  70%|███████   | 959/1363 [00:33<00:25, 16.03it/s]Loading weights:  71%|███████   | 961/1363 [00:34<00:34, 11.56it/s]Loading weights:  71%|███████   | 971/1363 [00:34<00:32, 12.11it/s]Loading weights:  72%|███████▏  | 983/1363 [00:35<00:28, 13.56it/s]Loading weights:  73%|███████▎  | 995/1363 [00:36<00:25, 14.67it/s]Loading weights:  73%|███████▎  | 997/1363 [00:37<00:35, 10.31it/s]Loading weights:  74%|███████▍  | 1007/1363 [00:37<00:26, 13.64it/s]Loading weights:  75%|███████▍  | 1019/1363 [00:38<00:27, 12.49it/s]Loading weights:  75%|███████▍  | 1021/1363 [00:39<00:35,  9.68it/s]Loading weights:  76%|███████▌  | 1037/1363 [00:39<00:22, 14.55it/s]Loading weights:  77%|███████▋  | 1043/1363 [00:40<00:25, 12.70it/s]Loading weights:  77%|███████▋  | 1049/1363 [00:41<00:29, 10.72it/s]Loading weights:  78%|███████▊  | 1057/1363 [00:41<00:26, 11.66it/s]Loading weights:  78%|███████▊  | 1067/1363 [00:43<00:31,  9.52it/s]Loading weights:  79%|███████▉  | 1081/1363 [00:43<00:23, 12.22it/s]Loading weights:  80%|████████  | 1091/1363 [00:44<00:19, 13.98it/s]Loading weights:  81%|████████  | 1102/1363 [00:44<00:13, 19.19it/s]Loading weights:  81%|████████  | 1107/1363 [00:46<00:24, 10.52it/s]Loading weights:  82%|████████▏ | 1117/1363 [00:46<00:22, 10.70it/s]Loading weights:  82%|████████▏ | 1121/1363 [00:47<00:20, 12.05it/s]Loading weights:  83%|████████▎ | 1129/1363 [00:47<00:17, 13.55it/s]Loading weights:  83%|████████▎ | 1133/1363 [00:48<00:23,  9.63it/s]Loading weights:  84%|████████▍ | 1145/1363 [00:48<00:14, 14.56it/s]Loading weights:  84%|████████▍ | 1151/1363 [00:49<00:15, 14.11it/s]Loading weights:  85%|████████▍ | 1154/1363 [00:50<00:21,  9.65it/s]Loading weights:  85%|████████▌ | 1163/1363 [00:50<00:16, 12.26it/s]Loading weights:  86%|████████▌ | 1169/1363 [00:50<00:15, 12.27it/s]Loading weights:  86%|████████▌ | 1175/1363 [00:51<00:17, 11.06it/s]Loading weights:  87%|████████▋ | 1187/1363 [00:52<00:13, 13.27it/s]Loading weights:  88%|████████▊ | 1199/1363 [00:53<00:12, 13.12it/s]Loading weights:  88%|████████▊ | 1201/1363 [00:53<00:13, 11.69it/s]Loading weights:  89%|████████▉ | 1213/1363 [00:54<00:12, 11.84it/s]Loading weights:  89%|████████▉ | 1217/1363 [00:54<00:11, 12.18it/s]Loading weights:  90%|█████████ | 1229/1363 [00:55<00:10, 12.32it/s]Loading weights:  91%|█████████ | 1235/1363 [00:56<00:10, 12.75it/s]Loading weights:  91%|█████████▏| 1247/1363 [00:57<00:08, 12.94it/s]Loading weights:  92%|█████████▏| 1249/1363 [00:57<00:11,  9.70it/s]Loading weights:  92%|█████████▏| 1259/1363 [00:58<00:07, 13.87it/s]Loading weights:  93%|█████████▎| 1262/1363 [00:58<00:08, 11.40it/s]Loading weights:  93%|█████████▎| 1271/1363 [00:59<00:07, 12.96it/s]Loading weights:  94%|█████████▎| 1277/1363 [00:59<00:06, 12.57it/s]Loading weights:  94%|█████████▍| 1283/1363 [01:00<00:05, 13.67it/s]Loading weights:  95%|█████████▍| 1289/1363 [01:00<00:06, 10.83it/s]Loading weights:  95%|█████████▌| 1295/1363 [01:01<00:05, 11.38it/s]Loading weights:  95%|█████████▌| 1301/1363 [01:01<00:05, 12.21it/s]Loading weights:  96%|█████████▌| 1307/1363 [01:02<00:04, 13.19it/s]Loading weights:  96%|█████████▌| 1309/1363 [01:02<00:05, 10.07it/s]Loading weights:  97%|█████████▋| 1323/1363 [01:03<00:02, 16.31it/s]Loading weights:  97%|█████████▋| 1325/1363 [01:03<00:03, 11.08it/s]Loading weights:  98%|█████████▊| 1331/1363 [01:04<00:02, 12.14it/s]Loading weights:  98%|█████████▊| 1337/1363 [01:04<00:01, 14.62it/s]Loading weights:  99%|█████████▊| 1343/1363 [01:05<00:01, 11.77it/s]Loading weights:  99%|█████████▊| 1345/1363 [01:05<00:01,  9.65it/s]Loading weights: 100%|█████████▉| 1357/1363 [01:05<00:00, 16.51it/s]Loading weights: 100%|██████████| 1363/1363 [01:05<00:00, 20.67it/s]
+[transformers] The tied weights mapping and config for this model specifies to tie language_model.shared.weight to language_model.lm_head.weight, but both are present in the checkpoints with different values, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning.
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Salesforce/instructblip-flan-t5-xl/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Salesforce/instructblip-flan-t5-xl/bf9bd58cb3bb06e88c03b80f9cc346b90094bc6d/generation_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/google/flan-t5-xl/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/flan-t5-xl/7d6315df2c2fb742f0f5b556879d730926ca9001/config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/google/flan-t5-xl/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/flan-t5-xl/7d6315df2c2fb742f0f5b556879d730926ca9001/tokenizer_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/models/google/flan-t5-xl/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/models/google/flan-t5-xl/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/google/flan-t5-xl/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/flan-t5-xl/7d6315df2c2fb742f0f5b556879d730926ca9001/config.json "HTTP/1.1 200 OK"
+Loading weights:   0%|          | 0/558 [00:00<?, ?it/s]Loading weights:   7%|▋         | 39/558 [00:00<00:01, 300.55it/s]Loading weights:  13%|█▎        | 71/558 [00:00<00:01, 310.66it/s]Loading weights:  26%|██▌       | 144/558 [00:00<00:00, 420.08it/s]Loading weights:  33%|███▎      | 185/558 [00:00<00:01, 295.49it/s]Loading weights:  39%|███▉      | 218/558 [00:00<00:01, 252.14it/s]Loading weights:  44%|████▍     | 246/558 [00:00<00:01, 209.99it/s]Loading weights:  48%|████▊     | 269/558 [00:01<00:01, 192.68it/s]Loading weights:  53%|█████▎    | 294/558 [00:01<00:01, 192.16it/s]Loading weights:  56%|█████▋    | 314/558 [00:01<00:01, 189.75it/s]Loading weights:  97%|█████████▋| 540/558 [00:01<00:00, 682.93it/s]Loading weights: 100%|██████████| 558/558 [00:01<00:00, 381.28it/s]
+[transformers] The tied weights mapping and config for this model specifies to tie shared.weight to lm_head.weight, but both are present in the checkpoints with different values, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning.
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/google/flan-t5-xl/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/flan-t5-xl/7d6315df2c2fb742f0f5b556879d730926ca9001/generation_config.json "HTTP/1.1 200 OK"
+
+[1/20] video_id=4010069381
+gold=A, pred=C, raw=C, correct=False
+
+[2/20] video_id=4882821564
+gold=C, pred=E, raw=E, correct=False
+
+[3/20] video_id=2435100235
+gold=C, pred=C, raw=C, correct=True
+
+[4/20] video_id=2834146886
+gold=C, pred=C, raw=C, correct=True
+
+[5/20] video_id=8132842161
+gold=D, pred=E, raw=E, correct=False
+
+[6/20] video_id=4260763967
+gold=C, pred=C, raw=C, correct=True
+
+[7/20] video_id=3462517143
+gold=B, pred=B, raw=B, correct=True
+
+[8/20] video_id=3441428429
+gold=B, pred=B, raw=B, correct=True
+
+[9/20] video_id=6356067859
+gold=B, pred=E, raw=E, correct=False
+
+[10/20] video_id=5026660202
+gold=B, pred=C, raw=C, correct=False
+
+[11/20] video_id=9873067604
+gold=C, pred=E, raw=E, correct=False
+
+[12/20] video_id=5735711594
+gold=B, pred=D, raw=D, correct=False
+
+[13/20] video_id=9088819598
+gold=B, pred=B, raw=B, correct=True
+
+[14/20] video_id=5296635780
+gold=D, pred=D, raw=D, correct=True
+
+[15/20] video_id=2614918961
+gold=B, pred=E, raw=E, correct=False
+
+[16/20] video_id=6201488511
+gold=C, pred=D, raw=D, correct=False
+
+[17/20] video_id=2976913210
+gold=C, pred=C, raw=C, correct=True
+
+[18/20] video_id=2793260225
+gold=B, pred=B, raw=B, correct=True
+
+[19/20] video_id=7508439506
+gold=A, pred=A, raw=A, correct=True
+
+[20/20] video_id=7508439506
+gold=E, pred=E, raw=E, correct=True
+
+=== Evaluation Summary ===
+Total: 20
+Correct: 11
+Accuracy: 55.00%
+Avg elapsed/sample: 6.51s
+Final memory: {'process_peak_rss_mb': 20816.32421875, 'device': 'cuda', 'gpu_peak_allocated_mb': 19814.18212890625, 'gpu_peak_reserved_mb': 20718.0}
+Saved to: outputs/frames_16.json
