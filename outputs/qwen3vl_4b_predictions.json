@@ -1,9 +1,9 @@
 {
   "summary": {
-    "total": 1,
-    "correct": 0,
-    "accuracy": 0.0,
-    "accuracy_percent": 0.0,
+    "total": 20,
+    "correct": 10,
+    "accuracy": 0.5,
+    "accuracy_percent": 50.0,
     "n_frames": 8
   },
   "results": [
@@ -22,8 +22,350 @@
       "raw_output": "C",
       "correct": false,
       "n_frames": 8,
-      "elapsed_sec": 920.6179978847504,
-      "captions": "Based on the image provided, here is a detailed description of how the two men are playing their instruments:\n\nThe image shows two men seated side-by-side Based on the image provided, here is a detailed description of how the two men are playing their instruments:\n\nThe image shows two men seated on chairs on Based on the image provided, here is a detailed description of how the two men are playing their instruments:\n\nThe image shows two men seated side-by-side Based on the image provided, here is a detailed description of how the two men appear to be playing their instruments:\n\nThe image shows two men seated on Based on the image provided, here is a detailed description of how the two men are playing their instruments:\n\nThe image captures a dimly lit, intimate Based on the image provided, here is a detailed description of how the two men are playing their instruments:\n\nThe image shows two men seated on stools on Based on the image provided, here is a detailed description of how the two men appear to be playing their instruments:\n\nThe image shows two men seated on Based on the blurry image provided, here is a detailed description of how the two men appear to be playing their instruments:\n\nThe image shows two men seated"
+      "elapsed_sec": 5.856184959411621,
+      "captions": "Based on the image provided, here is a detailed description of how the two men are playing their instruments:\n\nThe image shows two men seated side-by-side Based on the image provided, here is a detailed description of how the two men are playing their instruments:\n\nThe image shows two men seated on chairs on Based on the image provided, here is a detailed description of how the two men are playing their instruments:\n\nThe image shows two men seated side-by-side Based on the image provided, here is a detailed description of how the two men appear to be playing their instruments:\n\nThe image shows two men seated on Based on the image provided, here is a detailed description of how the two men appear to be playing their instruments:\n\nThe image shows two men seated on Based on the image provided, here is a detailed description of how the two men are playing their instruments:\n\nThe image shows two men seated on stools on Based on the image provided, here is a detailed description of how the two men appear to be playing their instruments:\n\nThe image shows two men seated on Based on the blurry image provided, here is a detailed description of how the two men appear to be playing their instruments:\n\nThe image shows two men seated"
+    },
+    {
+      "video_id": "4882821564",
+      "question": "why did the boy pick up one present from the group of them and move to the sofa",
+      "options": {
+        "A": "share with the girl",
+        "B": "approach lady sitting there",
+        "C": "unwrap it",
+        "D": "playing with toy train",
+        "E": "gesture something"
+      },
+      "gold": "C",
+      "pred": null,
+      "raw_output": "None of the captions mention the boy picking",
+      "correct": false,
+      "n_frames": 8,
+      "elapsed_sec": 5.885013818740845,
+      "captions": "Actually, there is no boy in the image, and there are no presents visible. The image depicts a cozy, vintage-style living room with two pink Actually, based on the image provided, **the boy has not moved to the sofa** — he is still sitting on the floor, surrounded by presents Actually, in the image provided, the boy is not moving toward the sofa — he is walking *away* from it, toward the left side of Actually, upon close inspection of the image, there is no present visible in the scene. The boy is standing in front of a large, ornate Actually, in the image provided, the boy is not picking up a present — he is standing beside the sofa, reaching toward a pile of wrapped gifts Actually, based on the image provided, there is no clear evidence that the boy picked up a present from a group of them and moved it to the Actually, based on the image provided, the boy has not picked up any present — nor is he moving toward the sofa. He is standing barefoot Actually, in the image provided, the boy is **not** on the sofa — he is **kneeling on the floor** in front of"
+    },
+    {
+      "video_id": "2435100235",
+      "question": "how does the man cycling try to sell the watch to the man in the trishaw",
+      "options": {
+        "A": "give him catalogue",
+        "B": "show him a video",
+        "C": "show him the watch",
+        "D": "dismount his bicycle",
+        "E": "give him the watch strap"
+      },
+      "gold": "C",
+      "pred": "C",
+      "raw_output": "C",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 5.5851662158966064,
+      "captions": "Actually, there is no man cycling or man in a trishaw in the image, nor is there any attempt to sell a watch. The image Actually, there is no scene in the image that depicts a man cycling trying to sell a watch to a man in a trishaw. The image Actually, the image does not depict a man cycling trying to sell a watch to a man in a trishaw.\n\nHere’s a detailed breakdown of Actually, there is no indication in the image that the man cycling is trying to sell a watch to the man in the trishaw.\n\nHere’s Actually, there is no indication in the image that the man cycling is trying to sell a watch to the man in the trishaw.\n\nHere’s Actually, there is no indication in the image that the man cycling is trying to sell a watch to the man in the trishaw.\n\nHere’s Actually, there is no indication in the image that the man cycling is trying to sell a watch to the man in the trishaw.\n\nHere’s Actually, there is no evidence in the image that the man cycling is trying to sell a watch to the man in the trishaw.\n\nHere’s"
+    },
+    {
+      "video_id": "2834146886",
+      "question": "what does the white dog do after going to the cushion",
+      "options": {
+        "A": "drink again",
+        "B": "shake its body",
+        "C": "smells the black dog",
+        "D": "wagging tail",
+        "E": "touch lady in blue stripes"
+      },
+      "gold": "C",
+      "pred": null,
+      "raw_output": "There is no white dog in the image",
+      "correct": false,
+      "n_frames": 8,
+      "elapsed_sec": 5.010875225067139,
+      "captions": "Actually, based on the image provided, there is no visible cushion or any indication that the white dog has gone to one. The image shows:\n\n- Actually, the image does not show a white dog — it shows a small black and tan dog (likely a Chihuahua or similar breed) Actually, there is no white dog in the image, nor is there a cushion visible. The image shows a close-up, first-person perspective of a Actually, the image does not show a white dog — it shows a small black dog. The dog is on a round, cushioned bed with a Based on the image provided, here is a detailed description of what the white dog does after going to the cushion:\n\nThe white dog, which has tan Actually, there is no white dog in the image. The image shows a close-up of a blue cushion with a wooden frame, likely part of a Actually, the image does not show a white dog — it shows a small, dark-colored puppy (likely black or dark brown with some lighter markings) Actually, the image does not show a white dog — it shows a dark-colored dog (likely black or dark brown) on a light-colored tiled floor"
+    },
+    {
+      "video_id": "8132842161",
+      "question": "why did the man in white hold tightly to the boy in white",
+      "options": {
+        "A": "forcing boy to look straight",
+        "B": "dancing with boy",
+        "C": "posing for camera",
+        "D": "prevent falling off",
+        "E": "boy keeps moving around"
+      },
+      "gold": "D",
+      "pred": "C",
+      "raw_output": "C",
+      "correct": false,
+      "n_frames": 8,
+      "elapsed_sec": 5.026468753814697,
+      "captions": "The man in the white shirt is holding the boy in white tightly — likely with one arm around the boy’s torso or shoulder — for several practical and The man in the white shirt is holding the boy in white tightly — likely with one arm around the boy’s torso or shoulder — for several practical and In the image, the man in the white shirt is holding the young boy in white tightly — not in a way that suggests aggression or discomfort, but Based on the visual evidence in the image, the man in the white shirt is holding the young boy in white tightly — likely with his arm around the The image shows a young boy in a white t-shirt being held securely by an adult — likely a parent or guardian — also wearing white. The adult Actually, there is no man in white or boy in white in the image you provided.\n\nThe image shows an outdoor scene, likely at a theme park Actually, based on the image provided, there is no man in white holding the boy in white. The image shows a young boy in a white shirt Actually, there is no man in white holding the boy in white in this image. The image shows a young child — likely a boy — wearing a"
+    },
+    {
+      "video_id": "4260763967",
+      "question": "why is the boy in yellow reaching out to things on the green mat",
+      "options": {
+        "A": "team uniform",
+        "B": "watch something in the pool",
+        "C": "assembling parts to build toy",
+        "D": "keep his belonging",
+        "E": "grab remote control"
+      },
+      "gold": "C",
+      "pred": null,
+      "raw_output": "None of the options are correct based on",
+      "correct": false,
+      "n_frames": 8,
+      "elapsed_sec": 5.580166339874268,
+      "captions": "Actually, the boy in the yellow shirt is not reaching out to things on the green mat — he is sitting on the floor to the left side of Based on the image provided, here is a detailed description and analysis of why the boy in the yellow shirt is reaching out to things on the green mat Actually, there is no boy in yellow in the image. The child in the picture is wearing a blue and dark blue striped shirt, not yellow. Actually, there is no boy in yellow in the image. The child in the foreground is wearing a blue and dark blue striped t-shirt with a dinosaur Actually, there is no boy in yellow in the image. The child in the picture is wearing a blue and dark blue striped t-shirt, not yellow Actually, there is no boy in yellow in the image. The child in the picture is wearing a blue and dark blue striped t-shirt, not yellow Actually, there is no boy in yellow reaching out to things on the green mat in this image.\n\nThe image shows a young child, likely a toddler Actually, the boy in the image is **not wearing yellow** — he is wearing a **blue and teal striped shirt** with a graphic of a"
+    },
+    {
+      "video_id": "3462517143",
+      "question": "why is the white dog walking around the green container",
+      "options": {
+        "A": "chasing",
+        "B": "get drink",
+        "C": "fashion for dogs",
+        "D": "leading the way",
+        "E": "excited"
+      },
+      "gold": "B",
+      "pred": null,
+      "raw_output": "Actually, there is no white dog in",
+      "correct": false,
+      "n_frames": 8,
+      "elapsed_sec": 5.45599889755249,
+      "captions": "Based on the image provided, here is a detailed description and analysis of why the white dog is walking around the green container:\n\n### Detailed Description of the Based on the image provided, here is a detailed description and analysis of why the white dog is walking around the green container:\n\n### Detailed Description of the Actually, there is no white dog in the image. The dog in the picture is brown — specifically, it appears to be a chocolate-colored Labrador Ret Actually, there is no white dog walking around the green container in the image — at least not in a way that’s clearly visible or central to the Actually, there is no white dog visible in the image you provided.\n\nThe image shows:\n\n- A large, wet, brown dog (likely a Labrador The white dog in the image is walking around the green container — which appears to be a shallow, pet-safe kiddie pool or splash pad — likely The image shows a small, fluffy white dog standing on a grassy backyard next to a bright green, flower-shaped plastic kiddie pool. The dog Actually, based on the image provided, there is no white dog walking around the green container — at least not in the way the question implies.\n\nHere"
+    },
+    {
+      "video_id": "3441428429",
+      "question": "what does the female skater do after the male skater puts her back down on the ice",
+      "options": {
+        "A": "put hand in mouth",
+        "B": "continue skating",
+        "C": "jump",
+        "D": "move her arms up and down",
+        "E": "laugh and run forward"
+      },
+      "gold": "B",
+      "pred": "A",
+      "raw_output": "A",
+      "correct": false,
+      "n_frames": 8,
+      "elapsed_sec": 5.648410081863403,
+      "captions": "Based on the image provided, here is a detailed description of what the female skater does after the male skater puts her back down on the ice Actually, in the image you’ve provided — which shows a male and female figure skater on an ice rink enveloped in fog or smoke — Actually, based on the image provided — which is extremely blurry, low-resolution, and appears to be taken from an audience perspective (with a dark silhouette Based on the image provided, it is not possible to determine what the female skater does *after* the male skater puts her back down on Actually, based on the image provided, it is not possible to determine what the female skater does after the male skater puts her back down on Based on the image provided, it is not possible to determine what the female skater does *after* the male skater puts her back down on Based on the image provided, it is not possible to determine what the female skater does *after* the male skater puts her back down on Actually, based on the image provided — which is extremely blurry and lacks clear visual detail — it is not possible to determine what the female skater does"
+    },
+    {
+      "video_id": "6356067859",
+      "question": "what does the girl in white do after bending down in the middle",
+      "options": {
+        "A": "grab her",
+        "B": "feed horse with grass",
+        "C": "run towards the camera",
+        "D": "umbrella",
+        "E": "put her arms up"
+      },
+      "gold": "B",
+      "pred": "B",
+      "raw_output": "B",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 5.464521646499634,
+      "captions": "After bending down in the middle of the image, the girl in the white shirt — who is wearing a decorative pink and white hair accessory — reaches out Based on the image provided, here is a detailed description of what the girl in white does after bending down in the middle:\n\nThe girl, wearing a After bending down in the middle of the image, the girl in the white shirt — who is wearing a pink bow in her hair — reaches out to Based on the image provided, here is a detailed description of what the girl in white does after bending down in the middle:\n\nThe girl in the white After bending down in the middle of the image, the girl in the white shirt reaches out with her right hand to gently touch or pet the dark brown Based on the image provided, here is a detailed description of what the girl in white does after bending down in the middle:\n\nThe girl, wearing a After bending down in the middle of the image, the girl in the white shirt is reaching out to pet or gently touch the dark brown pony’s muzzle After bending down in the middle of the image, the young girl in the white shirt and dark pants reaches out with her right hand to gently touch or"
+    },
+    {
+      "video_id": "5026660202",
+      "question": "why are there high chairs on the stage",
+      "options": {
+        "A": "to place the microphones",
+        "B": "for guitarists to sit comfortably",
+        "C": "for audience to sit",
+        "D": "to act as displays",
+        "E": "to take up stage spaces"
+      },
+      "gold": "B",
+      "pred": "B",
+      "raw_output": "B",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 5.650750160217285,
+      "captions": "Actually, there are no high chairs on the stage in this image.\n\nThe image you’ve provided appears to be a blurry, motion-filled photograph of a The image shows a live musical performance on a dimly lit stage, illuminated by dramatic purple and blue spotlights. There are four musicians: a drummer The image shows a live musical performance, likely by a rock or alternative band, with four musicians on stage: a drummer, a guitarist, a bass The image shows a live concert performance, likely by a rock or alternative band, with four musicians on stage: a drummer, a guitarist, a bass The image shows a live concert performance, likely by a rock or alternative band, with four musicians on stage. Three of them are seated on high stools Actually, there are no “high chairs” on the stage in this image — at least not in the sense of children’s high chairs or dining chairs The image shows a live band performance on a circular stage, likely during a concert. There are four musicians visible: a drummer on the left, a The image shows a live concert performance, likely by a rock or alternative band, with four musicians on a circular stage. Three of them are seated on"
+    },
+    {
+      "video_id": "9873067604",
+      "question": "why did the boy in white sway his head around",
+      "options": {
+        "A": "he is looking through it",
+        "B": "see where the ball is falling",
+        "C": "talking",
+        "D": "acting",
+        "E": "moving with rhythm"
+      },
+      "gold": "C",
+      "pred": "E",
+      "raw_output": "E",
+      "correct": false,
+      "n_frames": 8,
+      "elapsed_sec": 4.974269151687622,
+      "captions": "In the image, the boy in the white t-shirt on the right side of the frame is laughing heartily, with his mouth wide open and eyes Based on the image provided, it is not possible to definitively determine *why* the boy in the white shirt is swaying his head. However In the image, the boy in the white t-shirt on the right side of the backseat is smiling broadly with his eyes closed, and his head In the image, the boy in the white t-shirt on the right side of the backseat is swaying his head slightly from side to side. In the image, the boy in the white shirt is seated in the back of a car, smiling broadly and looking toward the camera or the person taking In the image, the boy in the white shirt is smiling broadly and appears to be laughing or engaged in joyful conversation with the child next to him. Based on the image provided, it is not possible to definitively determine *why* the boy in the white shirt is swaying his head. The Based on the image provided, it is not possible to definitively determine *why* the boy in the white shirt is swaying his head. However"
+    },
+    {
+      "video_id": "5735711594",
+      "question": "how did the white dog respond to the brown dog when it attacks from its tail",
+      "options": {
+        "A": "follow it",
+        "B": "hopped away",
+        "C": "wagging",
+        "D": "ready to run away",
+        "E": "move his head"
+      },
+      "gold": "B",
+      "pred": "B",
+      "raw_output": "B",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 4.533195972442627,
+      "captions": "Actually, in the image, the white dog does not appear to be responding to an attack from the brown dog’s tail — because the brown dog is Actually, there is no evidence in the image that the brown dog is attacking the white dog from its tail — and the white dog does not appear to Based on the image provided, here is a detailed description of the interaction between the white dog and the brown dog:\n\nThe image captures a dynamic, outdoor Actually, there is no evidence in the image that the white dog was attacked by the brown dog from its tail — and in fact, the brown dog Actually, the image does not show a white dog responding to a brown dog that is attacking from its tail — and here’s why:\n\n1. ** Based on the image provided, here is a detailed description of the interaction between the white dog and the brown dog:\n\nThe image captures a dynamic, somewhat Actually, in this image, the white dog does not appear to be responding to an attack from the brown dog’s tail — because **there is no Based on the image provided, here is a detailed description of the interaction between the two dogs:\n\nThe image captures a dynamic and playful moment between two dogs"
+    },
+    {
+      "video_id": "9088819598",
+      "question": "why does the baby keep the ball near his mouth in the beginning",
+      "options": {
+        "A": "take a photo",
+        "B": "lick it",
+        "C": "smelling the ball",
+        "D": "blow it away",
+        "E": "kiss it"
+      },
+      "gold": "B",
+      "pred": "B",
+      "raw_output": "B",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 5.440181255340576,
+      "captions": "The baby in the image is likely keeping the orange Fisher-Price Oball (a popular teething and sensory toy) near his mouth for several developmental The baby in the image is likely keeping the orange ball near his mouth for several developmental and sensory reasons:\n\n1. **Sensory Exploration**: Babies The baby is likely keeping the ball near his mouth in the beginning for several developmental and sensory reasons:\n\n1. **Exploration and Sensory Stimulation In the image, the baby is lying in a blue Fisher-Price bouncer with a pattern of seahorses, stars, and fish. The The baby is likely keeping the ball near his mouth in the beginning for several developmental and sensory reasons:\n\n1. **Exploration and Sensory Stimulation Actually, in the image you’ve provided, the baby is *not* holding the ball near his mouth — he is lying on his back in a Actually, in the image you’ve provided, the baby is not holding the ball near his mouth — he is holding it in his right hand, extended Actually, in the image you’ve provided, there is no ball near the baby’s mouth. The baby is lying on a blue, patterned baby"
+    },
+    {
+      "video_id": "5296635780",
+      "question": "what does the man do after the lady appear to punch him and smiles",
+      "options": {
+        "A": "look at him",
+        "B": "touch their chests",
+        "C": "kick him",
+        "D": "lean forward",
+        "E": "sit back properly"
+      },
+      "gold": "D",
+      "pred": null,
+      "raw_output": "None of the captions mention the man being",
+      "correct": false,
+      "n_frames": 8,
+      "elapsed_sec": 5.475274562835693,
+      "captions": "Actually, the man does not “appear to punch” the lady — that’s a misinterpretation. In the image, the woman is gently placing Actually, in this image, the woman does not appear to punch the man — she is gently touching his cheek with her gloved hand, and both Based on the image provided, the man does not appear to be punched or react to any forceful action. Instead, the scene depicts a tender, Actually, in this image, the man does not appear to be punched — nor is he smiling in a way that suggests he’s reacting to being punched Actually, based on the image provided, the man does not appear to be punched or react to any such action.\n\nHere’s a detailed description of what Actually, the image does not show the man being punched by the lady — there is no indication of any physical contact or aggression in the scene. The Actually, there is no indication in the image that the lady has punched the man or that he is smiling in response to such an action. The image Actually, there is no such action depicted in the image.\n\nThe image shows a bride and groom at what appears to be a wedding ceremony or reception."
+    },
+    {
+      "video_id": "2614918961",
+      "question": "why does the baby turn around near the end of the video",
+      "options": {
+        "A": "yawning",
+        "B": "sits down to play",
+        "C": "to see the toy",
+        "D": "move towards toy",
+        "E": "curious"
+      },
+      "gold": "B",
+      "pred": null,
+      "raw_output": "The captions repeatedly emphasize that the image is",
+      "correct": false,
+      "n_frames": 8,
+      "elapsed_sec": 5.474883794784546,
+      "captions": "Actually, there is no visible “turning around” in the image you’ve provided — it’s a still snapshot, not a video clip. The Actually, there is no visible “turning around” in this particular image — it’s a still frame from what appears to be a short video clip Actually, there is no video in this image — it is a single still photograph. Therefore, there is no “end of the video” or any Actually, there is no visible “turning around” in the image you’ve provided — it’s a still snapshot, not a video clip. The Actually, based on the image you’ve provided — which is a still snapshot — **there is no indication that the baby turns around near the end of Actually, there is no video in this image — it is a still photograph. Therefore, there is no “end of the video” or any action Actually, based on the image you’ve provided — which is a still frame — **there is no indication that the baby turns around near the end of Actually, based on the image you’ve provided — which appears to be a still frame from a video — **there is no visible baby turning around**"
+    },
+    {
+      "video_id": "6201488511",
+      "question": "why did the lady put her hands over her eyes in the middle of the video",
+      "options": {
+        "A": "posing in the camera",
+        "B": "adjust her hair",
+        "C": "protection from sun",
+        "D": "to wipe her eyes",
+        "E": "cue woman to talk"
+      },
+      "gold": "C",
+      "pred": "C",
+      "raw_output": "C",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 5.176661014556885,
+      "captions": "Actually, in the image you’ve provided — which shows a woman and a man standing outdoors on a grassy field under a partly cloudy sky — ** Actually, in the image you’ve provided — which shows two people outdoors on a grassy field under a partly cloudy sky — **the lady is not Actually, in the image you’ve provided — which appears to be a still from a video — **the lady is not covering her eyes**. She Actually, in the image you’ve provided — which appears to be a still from a video — **the lady is not covering her eyes**. She Actually, in the image you’ve provided — which shows a woman and a man outdoors on a grassy field under a partly cloudy sky — **the Actually, in the image you’ve provided — and in the video it appears to be from — **the lady is not covering her eyes**. She Actually, in the image you’ve provided — which shows a man and a woman outdoors under a partly cloudy sky — **the woman is not covering her Actually, in the image you’ve provided, the lady is **not** covering her eyes — she is **not** holding her hands over her eyes"
+    },
+    {
+      "video_id": "2976913210",
+      "question": "how did the man respond when he is stuck in the dirt",
+      "options": {
+        "A": "touched his head",
+        "B": "pointing towards the jumping line",
+        "C": "kept trying",
+        "D": "prepare to swing again",
+        "E": "looking at the floor"
+      },
+      "gold": "C",
+      "pred": "C",
+      "raw_output": "C: kept trying",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 5.383092164993286,
+      "captions": "Based on the image provided, here is a detailed description of the situation and the man’s response:\n\nThe image shows a man riding an all-terrain Based on the image provided, here is a detailed description of the man's response when he is stuck:\n\nThe man is riding an all-terrain vehicle Based on the image provided, here is a detailed description of the situation and the man's response:\n\nThe image shows a man riding an all-terrain Based on the image provided, here is a detailed description of the situation and the man’s response:\n\nThe image shows a man riding an all-terrain Based on the image provided, here is a detailed description of the situation and the man’s response:\n\nThe image shows a man riding an all-terrain Actually, the image does not show a man stuck in the dirt — it shows an all-terrain vehicle (ATV) stuck in a shallow, Actually, the image does not show a man — it shows an all-terrain vehicle (ATV) stuck in muddy, partially frozen water, likely Based on the image provided, here is a detailed description of the situation and the man’s response:\n\nThe image shows a man riding an all-terrain"
+    },
+    {
+      "video_id": "2793260225",
+      "question": "how did the lady and man on top try to keep their balance",
+      "options": {
+        "A": "hold the ropes tightly",
+        "B": "held each other",
+        "C": "walk side to side",
+        "D": "hold ski stick",
+        "E": "standing still"
+      },
+      "gold": "B",
+      "pred": "B",
+      "raw_output": "B",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 4.530235290527344,
+      "captions": "Based on the image provided, here is a detailed description of how the lady and man on top appear to be trying to keep their balance:\n\nThe scene Based on the image provided, here is a detailed description of how the lady and man on top are trying to keep their balance:\n\nThe two individuals — Based on the image provided, here is a detailed description of how the lady and man on top are trying to keep their balance:\n\nThe two individuals — In the image, the man and woman on top are attempting to maintain their balance while performing a dynamic, physically coordinated pose in the water — likely a Based on the image provided, here is a detailed description of how the man and woman on top are trying to keep their balance:\n\nThe man and woman Actually, based on the image provided, **there is no clear indication that the lady and man on top are trying to keep their balance** — and Actually, there is no lady visible in the image — only two men are clearly present in the water, and a third person (partially visible on"
+    },
+    {
+      "video_id": "7508439506",
+      "question": "why did the boy put his hands on the baby",
+      "options": {
+        "A": "play with baby",
+        "B": "to give her food",
+        "C": "play",
+        "D": "support the baby",
+        "E": "fall and pounce on the boy"
+      },
+      "gold": "A",
+      "pred": "A",
+      "raw_output": "None of the captions mention a “boy",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 5.4190833568573,
+      "captions": "Actually, in this image, **the boy is not putting his hands on the baby** — rather, **the baby is reaching up toward the boy Actually, the image does not show a boy putting his hands on the baby — it shows a baby lying on its back on a green surface, likely Actually, the image does not show a “boy” putting his hands on the baby — it shows an adult (likely a father or caregiver) lying Actually, the image does not show a boy — it shows a baby. The baby is lying on its back on a green blanket, wearing a white Actually, based on the image provided, there is no boy in the picture — only a baby and an adult (likely a parent or caregiver) lying Actually, the image does not show a boy putting his hands on the baby — it shows a baby lying on its back on a green surface, possibly Actually, the image does not show a boy — it shows a baby. The baby is lying on its back on a green blanket, wearing a white Actually, there is no boy in the image — the picture shows a baby lying on a green blanket, smiling joyfully. The baby is wearing a"
+    },
+    {
+      "video_id": "7508439506",
+      "question": "where is this video taken",
+      "options": {
+        "A": "swimming pool",
+        "B": "outdoor",
+        "C": "field",
+        "D": "desert",
+        "E": "bed room"
+      },
+      "gold": "E",
+      "pred": "E",
+      "raw_output": "E",
+      "correct": true,
+      "n_frames": 8,
+      "elapsed_sec": 5.320613145828247,
+      "captions": "Based on the visual evidence in the image, this scene is most likely taken indoors, in a private, domestic setting — specifically, a bedroom or nursery Based on the visual evidence in the image, this video appears to be taken in a **domestic, indoor setting**, most likely a **home bedroom Based on the visual evidence in the image, this scene is most likely taken indoors, in a private, domestic setting such as a bedroom or living room Based on the visual evidence in the image, this scene is most likely taken indoors, in a private, domestic setting — specifically, a bedroom or nursery Based on the visual evidence in the image, this video appears to be taken in a **private, indoor setting**, most likely a **home environment** Based on the visual evidence in the image, this video appears to be taken in a **private, indoor setting**, most likely a **home environment** Based on the visual evidence in the image, here is a detailed description of the scene and an analysis of where this video is likely being taken:\n\n** Based on the visual evidence in the image, here is a detailed description of the setting and context:\n\nThe image appears to be taken indoors, likely in"
     }
   ]
 }
